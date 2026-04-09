@@ -1,0 +1,2907 @@
+Food_Item,Calories_per_100g
+Roti,297
+Rice,130
+Dal,116
+Paneer,296
+Samosa,262
+Dosa,168
+Poha,180
+Pani Puri,220
+Vada Pav,300
+Pav Bhaji,150
+Burger,295
+Pizza,266
+Fries,312
+Noodles,138
+Fried Rice,163
+Manchurian,180
+Spring Rolls,250
+Spicy Chicken Curry,266
+Mild Chicken Curry,285
+Butter Chicken Curry,244
+Garlic Chicken Curry,309
+Homestyle Chicken Curry,215
+Restaurant Style Chicken Curry,221
+Spicy Chicken Masala,278
+Mild Chicken Masala,294
+Butter Chicken Masala,232
+Garlic Chicken Masala,252
+Homestyle Chicken Masala,276
+Restaurant Style Chicken Masala,208
+Spicy Chicken Fry,208
+Mild Chicken Fry,207
+Butter Chicken Fry,253
+Garlic Chicken Fry,306
+Homestyle Chicken Fry,230
+Restaurant Style Chicken Fry,220
+Spicy Chicken Tikka,302
+Mild Chicken Tikka,237
+Butter Chicken Tikka,296
+Garlic Chicken Tikka,274
+Homestyle Chicken Tikka,195
+Restaurant Style Chicken Tikka,207
+Spicy Chicken Biryani,234
+Mild Chicken Biryani,267
+Butter Chicken Biryani,261
+Garlic Chicken Biryani,230
+Homestyle Chicken Biryani,248
+Restaurant Style Chicken Biryani,302
+Spicy Chicken Korma,252
+Mild Chicken Korma,252
+Butter Chicken Korma,260
+Garlic Chicken Korma,268
+Homestyle Chicken Korma,193
+Restaurant Style Chicken Korma,302
+Spicy Chicken Roast,219
+Mild Chicken Roast,221
+Butter Chicken Roast,215
+Garlic Chicken Roast,202
+Homestyle Chicken Roast,232
+Restaurant Style Chicken Roast,213
+Spicy Chicken Grilled,291
+Mild Chicken Grilled,212
+Butter Chicken Grilled,206
+Garlic Chicken Grilled,227
+Homestyle Chicken Grilled,215
+Restaurant Style Chicken Grilled,273
+Spicy Chicken Keema,217
+Mild Chicken Keema,210
+Butter Chicken Keema,213
+Garlic Chicken Keema,250
+Homestyle Chicken Keema,205
+Restaurant Style Chicken Keema,274
+Spicy Chicken Vindaloo,242
+Mild Chicken Vindaloo,227
+Butter Chicken Vindaloo,231
+Garlic Chicken Vindaloo,216
+Homestyle Chicken Vindaloo,191
+Restaurant Style Chicken Vindaloo,215
+Spicy Chicken Bhuna,245
+Mild Chicken Bhuna,294
+Butter Chicken Bhuna,302
+Garlic Chicken Bhuna,283
+Homestyle Chicken Bhuna,294
+Restaurant Style Chicken Bhuna,264
+Spicy Mutton Curry,338
+Mild Mutton Curry,292
+Butter Mutton Curry,302
+Garlic Mutton Curry,328
+Homestyle Mutton Curry,338
+Restaurant Style Mutton Curry,287
+Spicy Mutton Masala,297
+Mild Mutton Masala,243
+Butter Mutton Masala,266
+Garlic Mutton Masala,293
+Homestyle Mutton Masala,296
+Restaurant Style Mutton Masala,319
+Spicy Mutton Fry,254
+Mild Mutton Fry,308
+Butter Mutton Fry,348
+Garlic Mutton Fry,317
+Homestyle Mutton Fry,237
+Restaurant Style Mutton Fry,336
+Spicy Mutton Tikka,363
+Mild Mutton Tikka,262
+Butter Mutton Tikka,287
+Garlic Mutton Tikka,275
+Homestyle Mutton Tikka,249
+Restaurant Style Mutton Tikka,321
+Spicy Mutton Biryani,323
+Mild Mutton Biryani,270
+Butter Mutton Biryani,274
+Garlic Mutton Biryani,313
+Homestyle Mutton Biryani,323
+Restaurant Style Mutton Biryani,359
+Spicy Mutton Korma,269
+Mild Mutton Korma,351
+Butter Mutton Korma,262
+Garlic Mutton Korma,262
+Homestyle Mutton Korma,314
+Restaurant Style Mutton Korma,298
+Spicy Mutton Roast,303
+Mild Mutton Roast,368
+Butter Mutton Roast,309
+Garlic Mutton Roast,297
+Homestyle Mutton Roast,293
+Restaurant Style Mutton Roast,379
+Spicy Mutton Grilled,282
+Mild Mutton Grilled,273
+Butter Mutton Grilled,328
+Garlic Mutton Grilled,247
+Homestyle Mutton Grilled,284
+Restaurant Style Mutton Grilled,269
+Spicy Mutton Keema,358
+Mild Mutton Keema,380
+Butter Mutton Keema,307
+Garlic Mutton Keema,371
+Homestyle Mutton Keema,307
+Restaurant Style Mutton Keema,306
+Spicy Mutton Vindaloo,288
+Mild Mutton Vindaloo,356
+Butter Mutton Vindaloo,352
+Garlic Mutton Vindaloo,366
+Homestyle Mutton Vindaloo,250
+Restaurant Style Mutton Vindaloo,269
+Spicy Mutton Bhuna,380
+Mild Mutton Bhuna,240
+Butter Mutton Bhuna,238
+Garlic Mutton Bhuna,313
+Homestyle Mutton Bhuna,254
+Restaurant Style Mutton Bhuna,320
+Spicy Fish Curry,241
+Mild Fish Curry,167
+Butter Fish Curry,176
+Garlic Fish Curry,252
+Homestyle Fish Curry,255
+Restaurant Style Fish Curry,263
+Spicy Fish Masala,259
+Mild Fish Masala,217
+Butter Fish Masala,218
+Garlic Fish Masala,238
+Homestyle Fish Masala,181
+Restaurant Style Fish Masala,184
+Spicy Fish Fry,266
+Mild Fish Fry,180
+Butter Fish Fry,202
+Garlic Fish Fry,207
+Homestyle Fish Fry,258
+Restaurant Style Fish Fry,179
+Spicy Fish Tikka,211
+Mild Fish Tikka,198
+Butter Fish Tikka,204
+Garlic Fish Tikka,220
+Homestyle Fish Tikka,232
+Restaurant Style Fish Tikka,188
+Spicy Fish Biryani,166
+Mild Fish Biryani,250
+Butter Fish Biryani,267
+Garlic Fish Biryani,189
+Homestyle Fish Biryani,176
+Restaurant Style Fish Biryani,211
+Spicy Fish Korma,174
+Mild Fish Korma,247
+Butter Fish Korma,191
+Garlic Fish Korma,263
+Homestyle Fish Korma,212
+Restaurant Style Fish Korma,244
+Spicy Fish Roast,200
+Mild Fish Roast,254
+Butter Fish Roast,201
+Garlic Fish Roast,241
+Homestyle Fish Roast,165
+Restaurant Style Fish Roast,226
+Spicy Fish Grilled,240
+Mild Fish Grilled,254
+Butter Fish Grilled,265
+Garlic Fish Grilled,207
+Homestyle Fish Grilled,193
+Restaurant Style Fish Grilled,264
+Spicy Fish Keema,266
+Mild Fish Keema,169
+Butter Fish Keema,169
+Garlic Fish Keema,248
+Homestyle Fish Keema,218
+Restaurant Style Fish Keema,212
+Spicy Fish Vindaloo,169
+Mild Fish Vindaloo,204
+Butter Fish Vindaloo,206
+Garlic Fish Vindaloo,220
+Homestyle Fish Vindaloo,199
+Restaurant Style Fish Vindaloo,215
+Spicy Fish Bhuna,192
+Mild Fish Bhuna,202
+Butter Fish Bhuna,201
+Garlic Fish Bhuna,267
+Homestyle Fish Bhuna,206
+Restaurant Style Fish Bhuna,243
+Spicy Egg Curry,133
+Mild Egg Curry,125
+Butter Egg Curry,150
+Garlic Egg Curry,164
+Homestyle Egg Curry,188
+Restaurant Style Egg Curry,157
+Spicy Egg Masala,126
+Mild Egg Masala,132
+Butter Egg Masala,149
+Garlic Egg Masala,178
+Homestyle Egg Masala,183
+Restaurant Style Egg Masala,175
+Spicy Egg Fry,182
+Mild Egg Fry,131
+Butter Egg Fry,144
+Garlic Egg Fry,132
+Homestyle Egg Fry,161
+Restaurant Style Egg Fry,173
+Spicy Egg Tikka,132
+Mild Egg Tikka,136
+Butter Egg Tikka,186
+Garlic Egg Tikka,131
+Homestyle Egg Tikka,146
+Restaurant Style Egg Tikka,152
+Spicy Egg Biryani,148
+Mild Egg Biryani,156
+Butter Egg Biryani,160
+Garlic Egg Biryani,185
+Homestyle Egg Biryani,138
+Restaurant Style Egg Biryani,144
+Spicy Egg Korma,182
+Mild Egg Korma,134
+Butter Egg Korma,133
+Garlic Egg Korma,195
+Homestyle Egg Korma,178
+Restaurant Style Egg Korma,161
+Spicy Egg Roast,166
+Mild Egg Roast,135
+Butter Egg Roast,132
+Garlic Egg Roast,196
+Homestyle Egg Roast,143
+Restaurant Style Egg Roast,146
+Spicy Egg Grilled,131
+Mild Egg Grilled,173
+Butter Egg Grilled,144
+Garlic Egg Grilled,198
+Homestyle Egg Grilled,136
+Restaurant Style Egg Grilled,129
+Spicy Egg Keema,124
+Mild Egg Keema,195
+Butter Egg Keema,144
+Garlic Egg Keema,190
+Homestyle Egg Keema,180
+Restaurant Style Egg Keema,200
+Spicy Egg Vindaloo,161
+Mild Egg Vindaloo,144
+Butter Egg Vindaloo,154
+Garlic Egg Vindaloo,193
+Homestyle Egg Vindaloo,187
+Restaurant Style Egg Vindaloo,149
+Spicy Egg Bhuna,173
+Mild Egg Bhuna,194
+Butter Egg Bhuna,172
+Garlic Egg Bhuna,187
+Homestyle Egg Bhuna,165
+Restaurant Style Egg Bhuna,127
+Spicy Prawn Curry,118
+Mild Prawn Curry,104
+Butter Prawn Curry,84
+Garlic Prawn Curry,105
+Homestyle Prawn Curry,126
+Restaurant Style Prawn Curry,111
+Spicy Prawn Masala,90
+Mild Prawn Masala,106
+Butter Prawn Masala,83
+Garlic Prawn Masala,110
+Homestyle Prawn Masala,112
+Restaurant Style Prawn Masala,83
+Spicy Prawn Fry,105
+Mild Prawn Fry,88
+Butter Prawn Fry,100
+Garlic Prawn Fry,127
+Homestyle Prawn Fry,123
+Restaurant Style Prawn Fry,88
+Spicy Prawn Tikka,95
+Mild Prawn Tikka,107
+Butter Prawn Tikka,79
+Garlic Prawn Tikka,104
+Homestyle Prawn Tikka,127
+Restaurant Style Prawn Tikka,118
+Spicy Prawn Biryani,88
+Mild Prawn Biryani,120
+Butter Prawn Biryani,121
+Garlic Prawn Biryani,105
+Homestyle Prawn Biryani,115
+Restaurant Style Prawn Biryani,103
+Spicy Prawn Korma,83
+Mild Prawn Korma,92
+Butter Prawn Korma,127
+Garlic Prawn Korma,116
+Homestyle Prawn Korma,97
+Restaurant Style Prawn Korma,107
+Spicy Prawn Roast,80
+Mild Prawn Roast,110
+Butter Prawn Roast,100
+Garlic Prawn Roast,100
+Homestyle Prawn Roast,91
+Restaurant Style Prawn Roast,94
+Spicy Prawn Grilled,108
+Mild Prawn Grilled,96
+Butter Prawn Grilled,87
+Garlic Prawn Grilled,92
+Homestyle Prawn Grilled,109
+Restaurant Style Prawn Grilled,91
+Spicy Prawn Keema,120
+Mild Prawn Keema,80
+Butter Prawn Keema,88
+Garlic Prawn Keema,126
+Homestyle Prawn Keema,96
+Restaurant Style Prawn Keema,83
+Spicy Prawn Vindaloo,117
+Mild Prawn Vindaloo,96
+Butter Prawn Vindaloo,113
+Garlic Prawn Vindaloo,120
+Homestyle Prawn Vindaloo,106
+Restaurant Style Prawn Vindaloo,106
+Spicy Prawn Bhuna,100
+Mild Prawn Bhuna,128
+Butter Prawn Bhuna,109
+Garlic Prawn Bhuna,94
+Homestyle Prawn Bhuna,107
+Restaurant Style Prawn Bhuna,94
+Spicy Beef Curry,231
+Mild Beef Curry,276
+Butter Beef Curry,244
+Garlic Beef Curry,321
+Homestyle Beef Curry,261
+Restaurant Style Beef Curry,246
+Spicy Beef Masala,214
+Mild Beef Masala,259
+Butter Beef Masala,294
+Garlic Beef Masala,269
+Homestyle Beef Masala,205
+Restaurant Style Beef Masala,306
+Spicy Beef Fry,232
+Mild Beef Fry,301
+Butter Beef Fry,287
+Garlic Beef Fry,233
+Homestyle Beef Fry,229
+Restaurant Style Beef Fry,254
+Spicy Beef Tikka,272
+Mild Beef Tikka,323
+Butter Beef Tikka,317
+Garlic Beef Tikka,285
+Homestyle Beef Tikka,300
+Restaurant Style Beef Tikka,254
+Spicy Beef Biryani,298
+Mild Beef Biryani,239
+Butter Beef Biryani,285
+Garlic Beef Biryani,275
+Homestyle Beef Biryani,273
+Restaurant Style Beef Biryani,259
+Spicy Beef Korma,240
+Mild Beef Korma,298
+Butter Beef Korma,315
+Garlic Beef Korma,300
+Homestyle Beef Korma,231
+Restaurant Style Beef Korma,216
+Spicy Beef Roast,259
+Mild Beef Roast,218
+Butter Beef Roast,295
+Garlic Beef Roast,307
+Homestyle Beef Roast,205
+Restaurant Style Beef Roast,287
+Spicy Beef Grilled,233
+Mild Beef Grilled,246
+Butter Beef Grilled,239
+Garlic Beef Grilled,294
+Homestyle Beef Grilled,301
+Restaurant Style Beef Grilled,216
+Spicy Beef Keema,314
+Mild Beef Keema,268
+Butter Beef Keema,219
+Garlic Beef Keema,250
+Homestyle Beef Keema,306
+Restaurant Style Beef Keema,242
+Spicy Beef Vindaloo,210
+Mild Beef Vindaloo,282
+Butter Beef Vindaloo,279
+Garlic Beef Vindaloo,258
+Homestyle Beef Vindaloo,308
+Restaurant Style Beef Vindaloo,262
+Spicy Beef Bhuna,293
+Mild Beef Bhuna,262
+Butter Beef Bhuna,249
+Garlic Beef Bhuna,232
+Homestyle Beef Bhuna,217
+Restaurant Style Beef Bhuna,202
+Spicy Pork Curry,311
+Mild Pork Curry,284
+Butter Pork Curry,195
+Garlic Pork Curry,308
+Homestyle Pork Curry,216
+Restaurant Style Pork Curry,312
+Spicy Pork Masala,225
+Mild Pork Masala,238
+Butter Pork Masala,232
+Garlic Pork Masala,254
+Homestyle Pork Masala,218
+Restaurant Style Pork Masala,252
+Spicy Pork Fry,234
+Mild Pork Fry,309
+Butter Pork Fry,230
+Garlic Pork Fry,238
+Homestyle Pork Fry,286
+Restaurant Style Pork Fry,213
+Spicy Pork Tikka,238
+Mild Pork Tikka,194
+Butter Pork Tikka,305
+Garlic Pork Tikka,196
+Homestyle Pork Tikka,235
+Restaurant Style Pork Tikka,221
+Spicy Pork Biryani,301
+Mild Pork Biryani,251
+Butter Pork Biryani,194
+Garlic Pork Biryani,287
+Homestyle Pork Biryani,307
+Restaurant Style Pork Biryani,314
+Spicy Pork Korma,275
+Mild Pork Korma,299
+Butter Pork Korma,286
+Garlic Pork Korma,297
+Homestyle Pork Korma,234
+Restaurant Style Pork Korma,217
+Spicy Pork Roast,304
+Mild Pork Roast,204
+Butter Pork Roast,266
+Garlic Pork Roast,248
+Homestyle Pork Roast,291
+Restaurant Style Pork Roast,209
+Spicy Pork Grilled,240
+Mild Pork Grilled,209
+Butter Pork Grilled,223
+Garlic Pork Grilled,226
+Homestyle Pork Grilled,242
+Restaurant Style Pork Grilled,270
+Spicy Pork Keema,248
+Mild Pork Keema,259
+Butter Pork Keema,234
+Garlic Pork Keema,203
+Homestyle Pork Keema,287
+Restaurant Style Pork Keema,232
+Spicy Pork Vindaloo,230
+Mild Pork Vindaloo,283
+Butter Pork Vindaloo,236
+Garlic Pork Vindaloo,271
+Homestyle Pork Vindaloo,288
+Restaurant Style Pork Vindaloo,233
+Spicy Pork Bhuna,199
+Mild Pork Bhuna,294
+Butter Pork Bhuna,198
+Garlic Pork Bhuna,240
+Homestyle Pork Bhuna,216
+Restaurant Style Pork Bhuna,203
+Dry Aloo Masala,83
+Gravy Aloo Masala,81
+Spicy Aloo Masala,74
+Mild Aloo Masala,90
+Dhaba Style Aloo Masala,91
+Jain Aloo Masala,100
+Dry Aloo Fry,99
+Gravy Aloo Fry,76
+Spicy Aloo Fry,106
+Mild Aloo Fry,76
+Dhaba Style Aloo Fry,73
+Jain Aloo Fry,93
+Dry Aloo Curry,99
+Gravy Aloo Curry,72
+Spicy Aloo Curry,96
+Mild Aloo Curry,79
+Dhaba Style Aloo Curry,90
+Jain Aloo Curry,84
+Dry Aloo Makhanwala,98
+Gravy Aloo Makhanwala,89
+Spicy Aloo Makhanwala,75
+Mild Aloo Makhanwala,112
+Dhaba Style Aloo Makhanwala,83
+Jain Aloo Makhanwala,97
+Dry Aloo Bhurji,104
+Gravy Aloo Bhurji,109
+Spicy Aloo Bhurji,92
+Mild Aloo Bhurji,109
+Dhaba Style Aloo Bhurji,71
+Jain Aloo Bhurji,103
+Dry Aloo Tikka,79
+Gravy Aloo Tikka,88
+Spicy Aloo Tikka,115
+Mild Aloo Tikka,106
+Dhaba Style Aloo Tikka,87
+Jain Aloo Tikka,81
+Dry Aloo Kofta,79
+Gravy Aloo Kofta,93
+Spicy Aloo Kofta,84
+Mild Aloo Kofta,106
+Dhaba Style Aloo Kofta,74
+Jain Aloo Kofta,76
+Dry Aloo Do Pyaza,77
+Gravy Aloo Do Pyaza,114
+Spicy Aloo Do Pyaza,113
+Mild Aloo Do Pyaza,107
+Dhaba Style Aloo Do Pyaza,75
+Jain Aloo Do Pyaza,99
+Dry Aloo Sabzi,100
+Gravy Aloo Sabzi,76
+Spicy Aloo Sabzi,110
+Mild Aloo Sabzi,72
+Dhaba Style Aloo Sabzi,101
+Jain Aloo Sabzi,72
+Dry Paneer Masala,317
+Gravy Paneer Masala,375
+Spicy Paneer Masala,362
+Mild Paneer Masala,244
+Dhaba Style Paneer Masala,263
+Jain Paneer Masala,357
+Dry Paneer Fry,294
+Gravy Paneer Fry,287
+Spicy Paneer Fry,325
+Mild Paneer Fry,341
+Dhaba Style Paneer Fry,242
+Jain Paneer Fry,358
+Dry Paneer Curry,376
+Gravy Paneer Curry,262
+Spicy Paneer Curry,333
+Mild Paneer Curry,359
+Dhaba Style Paneer Curry,372
+Jain Paneer Curry,304
+Dry Paneer Makhanwala,292
+Gravy Paneer Makhanwala,252
+Spicy Paneer Makhanwala,379
+Mild Paneer Makhanwala,291
+Dhaba Style Paneer Makhanwala,270
+Jain Paneer Makhanwala,283
+Dry Paneer Bhurji,359
+Gravy Paneer Bhurji,312
+Spicy Paneer Bhurji,295
+Mild Paneer Bhurji,320
+Dhaba Style Paneer Bhurji,238
+Jain Paneer Bhurji,294
+Dry Paneer Tikka,337
+Gravy Paneer Tikka,287
+Spicy Paneer Tikka,381
+Mild Paneer Tikka,340
+Dhaba Style Paneer Tikka,356
+Jain Paneer Tikka,297
+Dry Paneer Kofta,261
+Gravy Paneer Kofta,380
+Spicy Paneer Kofta,249
+Mild Paneer Kofta,345
+Dhaba Style Paneer Kofta,367
+Jain Paneer Kofta,260
+Dry Paneer Do Pyaza,247
+Gravy Paneer Do Pyaza,278
+Spicy Paneer Do Pyaza,337
+Mild Paneer Do Pyaza,327
+Dhaba Style Paneer Do Pyaza,303
+Jain Paneer Do Pyaza,329
+Dry Paneer Sabzi,360
+Gravy Paneer Sabzi,326
+Spicy Paneer Sabzi,264
+Mild Paneer Sabzi,276
+Dhaba Style Paneer Sabzi,291
+Jain Paneer Sabzi,375
+Dry Bhindi Masala,32
+Gravy Bhindi Masala,35
+Spicy Bhindi Masala,39
+Mild Bhindi Masala,35
+Dhaba Style Bhindi Masala,29
+Jain Bhindi Masala,33
+Dry Bhindi Fry,42
+Gravy Bhindi Fry,35
+Spicy Bhindi Fry,41
+Mild Bhindi Fry,41
+Dhaba Style Bhindi Fry,40
+Jain Bhindi Fry,36
+Dry Bhindi Curry,26
+Gravy Bhindi Curry,35
+Spicy Bhindi Curry,33
+Mild Bhindi Curry,31
+Dhaba Style Bhindi Curry,32
+Jain Bhindi Curry,41
+Dry Bhindi Makhanwala,41
+Gravy Bhindi Makhanwala,34
+Spicy Bhindi Makhanwala,37
+Mild Bhindi Makhanwala,26
+Dhaba Style Bhindi Makhanwala,33
+Jain Bhindi Makhanwala,28
+Dry Bhindi Bhurji,30
+Gravy Bhindi Bhurji,39
+Spicy Bhindi Bhurji,31
+Mild Bhindi Bhurji,31
+Dhaba Style Bhindi Bhurji,41
+Jain Bhindi Bhurji,32
+Dry Bhindi Tikka,34
+Gravy Bhindi Tikka,29
+Spicy Bhindi Tikka,41
+Mild Bhindi Tikka,42
+Dhaba Style Bhindi Tikka,41
+Jain Bhindi Tikka,39
+Dry Bhindi Kofta,33
+Gravy Bhindi Kofta,36
+Spicy Bhindi Kofta,30
+Mild Bhindi Kofta,39
+Dhaba Style Bhindi Kofta,31
+Jain Bhindi Kofta,36
+Dry Bhindi Do Pyaza,26
+Gravy Bhindi Do Pyaza,39
+Spicy Bhindi Do Pyaza,35
+Mild Bhindi Do Pyaza,37
+Dhaba Style Bhindi Do Pyaza,32
+Jain Bhindi Do Pyaza,34
+Dry Bhindi Sabzi,28
+Gravy Bhindi Sabzi,32
+Spicy Bhindi Sabzi,39
+Mild Bhindi Sabzi,35
+Dhaba Style Bhindi Sabzi,34
+Jain Bhindi Sabzi,42
+Dry Gobi Masala,27
+Gravy Gobi Masala,31
+Spicy Gobi Masala,29
+Mild Gobi Masala,27
+Dhaba Style Gobi Masala,31
+Jain Gobi Masala,22
+Dry Gobi Fry,24
+Gravy Gobi Fry,20
+Spicy Gobi Fry,32
+Mild Gobi Fry,24
+Dhaba Style Gobi Fry,29
+Jain Gobi Fry,21
+Dry Gobi Curry,20
+Gravy Gobi Curry,28
+Spicy Gobi Curry,29
+Mild Gobi Curry,29
+Dhaba Style Gobi Curry,31
+Jain Gobi Curry,31
+Dry Gobi Makhanwala,28
+Gravy Gobi Makhanwala,21
+Spicy Gobi Makhanwala,21
+Mild Gobi Makhanwala,31
+Dhaba Style Gobi Makhanwala,23
+Jain Gobi Makhanwala,27
+Dry Gobi Bhurji,31
+Gravy Gobi Bhurji,26
+Spicy Gobi Bhurji,25
+Mild Gobi Bhurji,20
+Dhaba Style Gobi Bhurji,27
+Jain Gobi Bhurji,27
+Dry Gobi Tikka,21
+Gravy Gobi Tikka,21
+Spicy Gobi Tikka,31
+Mild Gobi Tikka,24
+Dhaba Style Gobi Tikka,27
+Jain Gobi Tikka,21
+Dry Gobi Kofta,27
+Gravy Gobi Kofta,26
+Spicy Gobi Kofta,24
+Mild Gobi Kofta,24
+Dhaba Style Gobi Kofta,22
+Jain Gobi Kofta,25
+Dry Gobi Do Pyaza,20
+Gravy Gobi Do Pyaza,23
+Spicy Gobi Do Pyaza,20
+Mild Gobi Do Pyaza,31
+Dhaba Style Gobi Do Pyaza,32
+Jain Gobi Do Pyaza,30
+Dry Gobi Sabzi,30
+Gravy Gobi Sabzi,31
+Spicy Gobi Sabzi,30
+Mild Gobi Sabzi,25
+Dhaba Style Gobi Sabzi,25
+Jain Gobi Sabzi,22
+Dry Matar Masala,71
+Gravy Matar Masala,90
+Spicy Matar Masala,84
+Mild Matar Masala,65
+Dhaba Style Matar Masala,67
+Jain Matar Masala,102
+Dry Matar Fry,71
+Gravy Matar Fry,87
+Spicy Matar Fry,79
+Mild Matar Fry,99
+Dhaba Style Matar Fry,87
+Jain Matar Fry,103
+Dry Matar Curry,94
+Gravy Matar Curry,71
+Spicy Matar Curry,102
+Mild Matar Curry,105
+Dhaba Style Matar Curry,83
+Jain Matar Curry,72
+Dry Matar Makhanwala,81
+Gravy Matar Makhanwala,85
+Spicy Matar Makhanwala,76
+Mild Matar Makhanwala,83
+Dhaba Style Matar Makhanwala,105
+Jain Matar Makhanwala,79
+Dry Matar Bhurji,76
+Gravy Matar Bhurji,95
+Spicy Matar Bhurji,85
+Mild Matar Bhurji,96
+Dhaba Style Matar Bhurji,101
+Jain Matar Bhurji,87
+Dry Matar Tikka,73
+Gravy Matar Tikka,105
+Spicy Matar Tikka,98
+Mild Matar Tikka,79
+Dhaba Style Matar Tikka,69
+Jain Matar Tikka,99
+Dry Matar Kofta,67
+Gravy Matar Kofta,77
+Spicy Matar Kofta,81
+Mild Matar Kofta,87
+Dhaba Style Matar Kofta,69
+Jain Matar Kofta,86
+Dry Matar Do Pyaza,88
+Gravy Matar Do Pyaza,77
+Spicy Matar Do Pyaza,91
+Mild Matar Do Pyaza,73
+Dhaba Style Matar Do Pyaza,68
+Jain Matar Do Pyaza,71
+Dry Matar Sabzi,72
+Gravy Matar Sabzi,97
+Spicy Matar Sabzi,93
+Mild Matar Sabzi,74
+Dhaba Style Matar Sabzi,95
+Jain Matar Sabzi,71
+Dry Chana Masala,159
+Gravy Chana Masala,158
+Spicy Chana Masala,161
+Mild Chana Masala,158
+Dhaba Style Chana Masala,163
+Jain Chana Masala,136
+Dry Chana Fry,181
+Gravy Chana Fry,143
+Spicy Chana Fry,170
+Mild Chana Fry,162
+Dhaba Style Chana Fry,138
+Jain Chana Fry,148
+Dry Chana Curry,198
+Gravy Chana Curry,141
+Spicy Chana Curry,161
+Mild Chana Curry,152
+Dhaba Style Chana Curry,142
+Jain Chana Curry,192
+Dry Chana Makhanwala,189
+Gravy Chana Makhanwala,209
+Spicy Chana Makhanwala,209
+Mild Chana Makhanwala,144
+Dhaba Style Chana Makhanwala,151
+Jain Chana Makhanwala,208
+Dry Chana Bhurji,132
+Gravy Chana Bhurji,197
+Spicy Chana Bhurji,171
+Mild Chana Bhurji,137
+Dhaba Style Chana Bhurji,147
+Jain Chana Bhurji,211
+Dry Chana Tikka,153
+Gravy Chana Tikka,135
+Spicy Chana Tikka,155
+Mild Chana Tikka,182
+Dhaba Style Chana Tikka,146
+Jain Chana Tikka,207
+Dry Chana Kofta,195
+Gravy Chana Kofta,191
+Spicy Chana Kofta,131
+Mild Chana Kofta,177
+Dhaba Style Chana Kofta,197
+Jain Chana Kofta,175
+Dry Chana Do Pyaza,206
+Gravy Chana Do Pyaza,152
+Spicy Chana Do Pyaza,168
+Mild Chana Do Pyaza,166
+Dhaba Style Chana Do Pyaza,197
+Jain Chana Do Pyaza,198
+Dry Chana Sabzi,207
+Gravy Chana Sabzi,163
+Spicy Chana Sabzi,154
+Mild Chana Sabzi,148
+Dhaba Style Chana Sabzi,174
+Jain Chana Sabzi,193
+Dry Palak Masala,19
+Gravy Palak Masala,24
+Spicy Palak Masala,23
+Mild Palak Masala,25
+Dhaba Style Palak Masala,22
+Jain Palak Masala,28
+Dry Palak Fry,20
+Gravy Palak Fry,22
+Spicy Palak Fry,19
+Mild Palak Fry,28
+Dhaba Style Palak Fry,19
+Jain Palak Fry,19
+Dry Palak Curry,27
+Gravy Palak Curry,26
+Spicy Palak Curry,24
+Mild Palak Curry,28
+Dhaba Style Palak Curry,18
+Jain Palak Curry,28
+Dry Palak Makhanwala,28
+Gravy Palak Makhanwala,29
+Spicy Palak Makhanwala,18
+Mild Palak Makhanwala,25
+Dhaba Style Palak Makhanwala,21
+Jain Palak Makhanwala,22
+Dry Palak Bhurji,23
+Gravy Palak Bhurji,24
+Spicy Palak Bhurji,18
+Mild Palak Bhurji,24
+Dhaba Style Palak Bhurji,23
+Jain Palak Bhurji,19
+Dry Palak Tikka,24
+Gravy Palak Tikka,26
+Spicy Palak Tikka,23
+Mild Palak Tikka,26
+Dhaba Style Palak Tikka,26
+Jain Palak Tikka,25
+Dry Palak Kofta,25
+Gravy Palak Kofta,18
+Spicy Palak Kofta,24
+Mild Palak Kofta,23
+Dhaba Style Palak Kofta,26
+Jain Palak Kofta,25
+Dry Palak Do Pyaza,28
+Gravy Palak Do Pyaza,24
+Spicy Palak Do Pyaza,26
+Mild Palak Do Pyaza,25
+Dhaba Style Palak Do Pyaza,22
+Jain Palak Do Pyaza,25
+Dry Palak Sabzi,28
+Gravy Palak Sabzi,23
+Spicy Palak Sabzi,22
+Mild Palak Sabzi,21
+Dhaba Style Palak Sabzi,27
+Jain Palak Sabzi,26
+Dry Mushroom Masala,26
+Gravy Mushroom Masala,26
+Spicy Mushroom Masala,18
+Mild Mushroom Masala,27
+Dhaba Style Mushroom Masala,26
+Jain Mushroom Masala,24
+Dry Mushroom Fry,22
+Gravy Mushroom Fry,28
+Spicy Mushroom Fry,28
+Mild Mushroom Fry,26
+Dhaba Style Mushroom Fry,23
+Jain Mushroom Fry,17
+Dry Mushroom Curry,19
+Gravy Mushroom Curry,20
+Spicy Mushroom Curry,27
+Mild Mushroom Curry,25
+Dhaba Style Mushroom Curry,20
+Jain Mushroom Curry,25
+Dry Mushroom Makhanwala,27
+Gravy Mushroom Makhanwala,25
+Spicy Mushroom Makhanwala,20
+Mild Mushroom Makhanwala,22
+Dhaba Style Mushroom Makhanwala,21
+Jain Mushroom Makhanwala,23
+Dry Mushroom Bhurji,18
+Gravy Mushroom Bhurji,19
+Spicy Mushroom Bhurji,27
+Mild Mushroom Bhurji,19
+Dhaba Style Mushroom Bhurji,22
+Jain Mushroom Bhurji,22
+Dry Mushroom Tikka,24
+Gravy Mushroom Tikka,23
+Spicy Mushroom Tikka,21
+Mild Mushroom Tikka,19
+Dhaba Style Mushroom Tikka,18
+Jain Mushroom Tikka,17
+Dry Mushroom Kofta,27
+Gravy Mushroom Kofta,28
+Spicy Mushroom Kofta,27
+Mild Mushroom Kofta,27
+Dhaba Style Mushroom Kofta,25
+Jain Mushroom Kofta,28
+Dry Mushroom Do Pyaza,18
+Gravy Mushroom Do Pyaza,28
+Spicy Mushroom Do Pyaza,21
+Mild Mushroom Do Pyaza,25
+Dhaba Style Mushroom Do Pyaza,22
+Jain Mushroom Do Pyaza,18
+Dry Mushroom Sabzi,21
+Gravy Mushroom Sabzi,27
+Spicy Mushroom Sabzi,24
+Mild Mushroom Sabzi,26
+Dhaba Style Mushroom Sabzi,26
+Jain Mushroom Sabzi,24
+Dry Baingan Masala,25
+Gravy Baingan Masala,24
+Spicy Baingan Masala,20
+Mild Baingan Masala,29
+Dhaba Style Baingan Masala,24
+Jain Baingan Masala,24
+Dry Baingan Fry,24
+Gravy Baingan Fry,30
+Spicy Baingan Fry,30
+Mild Baingan Fry,22
+Dhaba Style Baingan Fry,28
+Jain Baingan Fry,28
+Dry Baingan Curry,27
+Gravy Baingan Curry,20
+Spicy Baingan Curry,28
+Mild Baingan Curry,19
+Dhaba Style Baingan Curry,23
+Jain Baingan Curry,21
+Dry Baingan Makhanwala,28
+Gravy Baingan Makhanwala,20
+Spicy Baingan Makhanwala,28
+Mild Baingan Makhanwala,22
+Dhaba Style Baingan Makhanwala,31
+Jain Baingan Makhanwala,25
+Dry Baingan Bhurji,24
+Gravy Baingan Bhurji,20
+Spicy Baingan Bhurji,19
+Mild Baingan Bhurji,24
+Dhaba Style Baingan Bhurji,21
+Jain Baingan Bhurji,24
+Dry Baingan Tikka,20
+Gravy Baingan Tikka,26
+Spicy Baingan Tikka,27
+Mild Baingan Tikka,23
+Dhaba Style Baingan Tikka,28
+Jain Baingan Tikka,22
+Dry Baingan Kofta,29
+Gravy Baingan Kofta,29
+Spicy Baingan Kofta,24
+Mild Baingan Kofta,29
+Dhaba Style Baingan Kofta,21
+Jain Baingan Kofta,30
+Dry Baingan Do Pyaza,26
+Gravy Baingan Do Pyaza,19
+Spicy Baingan Do Pyaza,23
+Mild Baingan Do Pyaza,27
+Dhaba Style Baingan Do Pyaza,27
+Jain Baingan Do Pyaza,30
+Dry Baingan Sabzi,30
+Gravy Baingan Sabzi,25
+Spicy Baingan Sabzi,24
+Mild Baingan Sabzi,29
+Dhaba Style Baingan Sabzi,20
+Jain Baingan Sabzi,23
+Dry Tofu Masala,139
+Gravy Tofu Masala,133
+Spicy Tofu Masala,186
+Mild Tofu Masala,118
+Dhaba Style Tofu Masala,152
+Jain Tofu Masala,158
+Dry Tofu Fry,186
+Gravy Tofu Fry,169
+Spicy Tofu Fry,155
+Mild Tofu Fry,129
+Dhaba Style Tofu Fry,173
+Jain Tofu Fry,185
+Dry Tofu Curry,133
+Gravy Tofu Curry,185
+Spicy Tofu Curry,147
+Mild Tofu Curry,127
+Dhaba Style Tofu Curry,121
+Jain Tofu Curry,140
+Dry Tofu Makhanwala,160
+Gravy Tofu Makhanwala,132
+Spicy Tofu Makhanwala,120
+Mild Tofu Makhanwala,186
+Dhaba Style Tofu Makhanwala,158
+Jain Tofu Makhanwala,121
+Dry Tofu Bhurji,161
+Gravy Tofu Bhurji,178
+Spicy Tofu Bhurji,171
+Mild Tofu Bhurji,116
+Dhaba Style Tofu Bhurji,181
+Jain Tofu Bhurji,125
+Dry Tofu Tikka,164
+Gravy Tofu Tikka,134
+Spicy Tofu Tikka,135
+Mild Tofu Tikka,141
+Dhaba Style Tofu Tikka,184
+Jain Tofu Tikka,124
+Dry Tofu Kofta,150
+Gravy Tofu Kofta,164
+Spicy Tofu Kofta,146
+Mild Tofu Kofta,143
+Dhaba Style Tofu Kofta,165
+Jain Tofu Kofta,142
+Dry Tofu Do Pyaza,146
+Gravy Tofu Do Pyaza,139
+Spicy Tofu Do Pyaza,182
+Mild Tofu Do Pyaza,139
+Dhaba Style Tofu Do Pyaza,165
+Jain Tofu Do Pyaza,175
+Dry Tofu Sabzi,186
+Gravy Tofu Sabzi,161
+Spicy Tofu Sabzi,149
+Mild Tofu Sabzi,118
+Dhaba Style Tofu Sabzi,116
+Jain Tofu Sabzi,157
+Dry Rajma Masala,125
+Gravy Rajma Masala,140
+Spicy Rajma Masala,104
+Mild Rajma Masala,130
+Dhaba Style Rajma Masala,158
+Jain Rajma Masala,113
+Dry Rajma Fry,125
+Gravy Rajma Fry,129
+Spicy Rajma Fry,164
+Mild Rajma Fry,143
+Dhaba Style Rajma Fry,104
+Jain Rajma Fry,124
+Dry Rajma Curry,126
+Gravy Rajma Curry,147
+Spicy Rajma Curry,127
+Mild Rajma Curry,163
+Dhaba Style Rajma Curry,102
+Jain Rajma Curry,122
+Dry Rajma Makhanwala,104
+Gravy Rajma Makhanwala,156
+Spicy Rajma Makhanwala,156
+Mild Rajma Makhanwala,126
+Dhaba Style Rajma Makhanwala,132
+Jain Rajma Makhanwala,163
+Dry Rajma Bhurji,113
+Gravy Rajma Bhurji,146
+Spicy Rajma Bhurji,156
+Mild Rajma Bhurji,137
+Dhaba Style Rajma Bhurji,113
+Jain Rajma Bhurji,141
+Dry Rajma Tikka,153
+Gravy Rajma Tikka,110
+Spicy Rajma Tikka,125
+Mild Rajma Tikka,146
+Dhaba Style Rajma Tikka,160
+Jain Rajma Tikka,103
+Dry Rajma Kofta,124
+Gravy Rajma Kofta,131
+Spicy Rajma Kofta,119
+Mild Rajma Kofta,158
+Dhaba Style Rajma Kofta,142
+Jain Rajma Kofta,119
+Dry Rajma Do Pyaza,165
+Gravy Rajma Do Pyaza,107
+Spicy Rajma Do Pyaza,125
+Mild Rajma Do Pyaza,159
+Dhaba Style Rajma Do Pyaza,116
+Jain Rajma Do Pyaza,105
+Dry Rajma Sabzi,119
+Gravy Rajma Sabzi,158
+Spicy Rajma Sabzi,160
+Mild Rajma Sabzi,152
+Dhaba Style Rajma Sabzi,145
+Jain Rajma Sabzi,159
+Fresh Apple,52
+Juice Apple,46
+Shake Apple,128
+Dried Apple,208
+Salad Apple,52
+Fresh Banana,89
+Juice Banana,80
+Shake Banana,183
+Dried Banana,356
+Salad Banana,89
+Fresh Mango,60
+Juice Mango,54
+Shake Mango,140
+Dried Mango,240
+Salad Mango,60
+Fresh Orange,47
+Juice Orange,42
+Shake Orange,120
+Dried Orange,188
+Salad Orange,47
+Fresh Grapes,69
+Juice Grapes,62
+Shake Grapes,153
+Dried Grapes,276
+Salad Grapes,69
+Fresh Papaya,43
+Juice Papaya,38
+Shake Papaya,114
+Dried Papaya,172
+Salad Papaya,43
+Fresh Watermelon,30
+Juice Watermelon,27
+Shake Watermelon,95
+Dried Watermelon,120
+Salad Watermelon,30
+Fresh Pineapple,50
+Juice Pineapple,45
+Shake Pineapple,125
+Dried Pineapple,200
+Salad Pineapple,50
+Fresh Guava,68
+Juice Guava,61
+Shake Guava,152
+Dried Guava,272
+Salad Guava,68
+Fresh Pomegranate,83
+Juice Pomegranate,74
+Shake Pomegranate,174
+Dried Pomegranate,332
+Salad Pomegranate,83
+Fresh Strawberry,32
+Juice Strawberry,28
+Shake Strawberry,98
+Dried Strawberry,128
+Salad Strawberry,32
+Fresh Melon,34
+Juice Melon,30
+Shake Melon,101
+Dried Melon,136
+Salad Melon,34
+Fresh Kiwi,61
+Juice Kiwi,54
+Shake Kiwi,141
+Dried Kiwi,244
+Salad Kiwi,61
+Fresh Pear,57
+Juice Pear,51
+Shake Pear,135
+Dried Pear,228
+Salad Pear,57
+Aloo Samosa,262
+Paneer Samosa,314
+Onion Samosa,262
+Mix Veg Samosa,262
+Cheese Samosa,314
+Chicken Samosa,288
+Egg Samosa,262
+Mutton Samosa,288
+Soya Samosa,262
+Aloo Kachori,400
+Paneer Kachori,480
+Onion Kachori,400
+Mix Veg Kachori,400
+Cheese Kachori,480
+Chicken Kachori,440
+Egg Kachori,400
+Mutton Kachori,440
+Soya Kachori,400
+Aloo Pakora,250
+Paneer Pakora,300
+Onion Pakora,250
+Mix Veg Pakora,250
+Cheese Pakora,300
+Chicken Pakora,275
+Egg Pakora,250
+Mutton Pakora,275
+Soya Pakora,250
+Aloo Dosa,168
+Paneer Dosa,201
+Onion Dosa,168
+Mix Veg Dosa,168
+Cheese Dosa,201
+Chicken Dosa,184
+Egg Dosa,168
+Mutton Dosa,184
+Soya Dosa,168
+Aloo Idli,58
+Paneer Idli,69
+Onion Idli,58
+Mix Veg Idli,58
+Cheese Idli,69
+Chicken Idli,63
+Egg Idli,58
+Mutton Idli,63
+Soya Idli,58
+Aloo Vada,280
+Paneer Vada,336
+Onion Vada,280
+Mix Veg Vada,280
+Cheese Vada,336
+Chicken Vada,308
+Egg Vada,280
+Mutton Vada,308
+Soya Vada,280
+Aloo Puri,320
+Paneer Puri,384
+Onion Puri,320
+Mix Veg Puri,320
+Cheese Puri,384
+Chicken Puri,352
+Egg Puri,320
+Mutton Puri,352
+Soya Puri,320
+Aloo Paratha,300
+Paneer Paratha,360
+Onion Paratha,300
+Mix Veg Paratha,300
+Cheese Paratha,360
+Chicken Paratha,330
+Egg Paratha,300
+Mutton Paratha,330
+Soya Paratha,300
+Aloo Kulcha,270
+Paneer Kulcha,324
+Onion Kulcha,270
+Mix Veg Kulcha,270
+Cheese Kulcha,324
+Chicken Kulcha,297
+Egg Kulcha,270
+Mutton Kulcha,297
+Soya Kulcha,270
+Aloo Roll,250
+Paneer Roll,300
+Onion Roll,250
+Mix Veg Roll,250
+Cheese Roll,300
+Chicken Roll,275
+Egg Roll,250
+Mutton Roll,275
+Soya Roll,250
+Aloo Momos,150
+Paneer Momos,180
+Onion Momos,150
+Mix Veg Momos,150
+Cheese Momos,180
+Chicken Momos,165
+Egg Momos,150
+Mutton Momos,165
+Soya Momos,150
+Veg Burger,295
+Cheese Burger,345
+Chicken Burger,295
+Paneer Burger,295
+Mushroom Burger,295
+Tandoori Burger,295
+BBQ Burger,295
+Mexican Burger,295
+Veg Pizza,266
+Cheese Pizza,316
+Chicken Pizza,266
+Paneer Pizza,266
+Mushroom Pizza,266
+Tandoori Pizza,266
+BBQ Pizza,266
+Mexican Pizza,266
+Veg Sandwich,250
+Cheese Sandwich,300
+Chicken Sandwich,250
+Paneer Sandwich,250
+Mushroom Sandwich,250
+Tandoori Sandwich,250
+BBQ Sandwich,250
+Mexican Sandwich,250
+Veg Pasta,131
+Cheese Pasta,181
+Chicken Pasta,131
+Paneer Pasta,131
+Mushroom Pasta,131
+Tandoori Pasta,131
+BBQ Pasta,131
+Mexican Pasta,131
+Veg Wrap,200
+Cheese Wrap,250
+Chicken Wrap,200
+Paneer Wrap,200
+Mushroom Wrap,200
+Tandoori Wrap,200
+BBQ Wrap,200
+Mexican Wrap,200
+Veg Salad,100
+Cheese Salad,150
+Chicken Salad,100
+Paneer Salad,100
+Mushroom Salad,100
+Tandoori Salad,100
+BBQ Salad,100
+Mexican Salad,100
+Kesar Gulab Jamun,300
+Pista Gulab Jamun,300
+Chocolate Gulab Jamun,340
+Vanilla Gulab Jamun,300
+Mango Gulab Jamun,300
+Almond Gulab Jamun,300
+Special Gulab Jamun,300
+Reduced Sugar Gulab Jamun,210
+Kesar Rasgulla,186
+Pista Rasgulla,186
+Chocolate Rasgulla,226
+Vanilla Rasgulla,186
+Mango Rasgulla,186
+Almond Rasgulla,186
+Special Rasgulla,186
+Reduced Sugar Rasgulla,130
+Kesar Barfi,350
+Pista Barfi,350
+Chocolate Barfi,390
+Vanilla Barfi,350
+Mango Barfi,350
+Almond Barfi,350
+Special Barfi,350
+Reduced Sugar Barfi,244
+Kesar Halwa,300
+Pista Halwa,300
+Chocolate Halwa,340
+Vanilla Halwa,300
+Mango Halwa,300
+Almond Halwa,300
+Special Halwa,300
+Reduced Sugar Halwa,210
+Kesar Kheer,110
+Pista Kheer,110
+Chocolate Kheer,150
+Vanilla Kheer,110
+Mango Kheer,110
+Almond Kheer,110
+Special Kheer,110
+Reduced Sugar Kheer,77
+Kesar Ladoo,400
+Pista Ladoo,400
+Chocolate Ladoo,440
+Vanilla Ladoo,400
+Mango Ladoo,400
+Almond Ladoo,400
+Special Ladoo,400
+Reduced Sugar Ladoo,280
+Kesar Peda,370
+Pista Peda,370
+Chocolate Peda,410
+Vanilla Peda,370
+Mango Peda,370
+Almond Peda,370
+Special Peda,370
+Reduced Sugar Peda,259
+Kesar Ice Cream,207
+Pista Ice Cream,207
+Chocolate Ice Cream,247
+Vanilla Ice Cream,207
+Mango Ice Cream,207
+Almond Ice Cream,207
+Special Ice Cream,207
+Reduced Sugar Ice Cream,144
+Kesar Cake,350
+Pista Cake,350
+Chocolate Cake,390
+Vanilla Cake,350
+Mango Cake,350
+Almond Cake,350
+Special Cake,350
+Reduced Sugar Cake,244
+Kesar Pastry,390
+Pista Pastry,390
+Chocolate Pastry,430
+Vanilla Pastry,390
+Mango Pastry,390
+Almond Pastry,390
+Special Pastry,390
+Reduced Sugar Pastry,273
+Regular Sweet Tea,31
+Regular Black Tea,2
+Regular Green Tea,2
+Regular Lemon Tea,1
+Regular Masala Tea,1
+Regular Ginger Tea,1
+Regular Apple Tea,1
+Regular Orange Tea,1
+Regular Mango Tea,1
+Regular Mixed Fruit Tea,1
+Regular Mint Tea,1
+Regular Tea,1
+Iced Sweet Tea,31
+Iced Black Tea,2
+Iced Green Tea,2
+Iced Lemon Tea,1
+Iced Masala Tea,1
+Iced Ginger Tea,1
+Iced Apple Tea,1
+Iced Orange Tea,1
+Iced Mango Tea,1
+Iced Mixed Fruit Tea,1
+Iced Mint Tea,1
+Iced Tea,1
+Cold Sweet Tea,31
+Cold Black Tea,2
+Cold Green Tea,2
+Cold Lemon Tea,1
+Cold Masala Tea,1
+Cold Ginger Tea,1
+Cold Apple Tea,1
+Cold Orange Tea,1
+Cold Mango Tea,1
+Cold Mixed Fruit Tea,1
+Cold Mint Tea,1
+Cold Tea,1
+Hot Sweet Tea,31
+Hot Black Tea,2
+Hot Green Tea,2
+Hot Lemon Tea,1
+Hot Masala Tea,1
+Hot Ginger Tea,1
+Hot Apple Tea,1
+Hot Orange Tea,1
+Hot Mango Tea,1
+Hot Mixed Fruit Tea,1
+Hot Mint Tea,1
+Hot Tea,1
+Diet Sweet Tea,30
+Diet Black Tea,2
+Diet Green Tea,2
+Diet Lemon Tea,0
+Diet Masala Tea,0
+Diet Ginger Tea,0
+Diet Apple Tea,0
+Diet Orange Tea,0
+Diet Mango Tea,0
+Diet Mixed Fruit Tea,0
+Diet Mint Tea,0
+Diet Tea,0
+Sugar-Free Sweet Tea,30
+Sugar-Free Black Tea,2
+Sugar-Free Green Tea,2
+Sugar-Free Lemon Tea,0
+Sugar-Free Masala Tea,0
+Sugar-Free Ginger Tea,0
+Sugar-Free Apple Tea,0
+Sugar-Free Orange Tea,0
+Sugar-Free Mango Tea,0
+Sugar-Free Mixed Fruit Tea,0
+Sugar-Free Mint Tea,0
+Sugar-Free Tea,0
+Premium Sweet Tea,31
+Premium Black Tea,2
+Premium Green Tea,2
+Premium Lemon Tea,1
+Premium Masala Tea,1
+Premium Ginger Tea,1
+Premium Apple Tea,1
+Premium Orange Tea,1
+Premium Mango Tea,1
+Premium Mixed Fruit Tea,1
+Premium Mint Tea,1
+Premium Tea,1
+Fresh Sweet Tea,31
+Fresh Black Tea,2
+Fresh Green Tea,2
+Fresh Lemon Tea,1
+Fresh Masala Tea,1
+Fresh Ginger Tea,1
+Fresh Apple Tea,1
+Fresh Orange Tea,1
+Fresh Mango Tea,1
+Fresh Mixed Fruit Tea,1
+Fresh Mint Tea,1
+Fresh Tea,1
+Regular Sweet Coffee,32
+Regular Black Coffee,2
+Regular Green Coffee,2
+Regular Lemon Coffee,2
+Regular Masala Coffee,2
+Regular Ginger Coffee,2
+Regular Apple Coffee,2
+Regular Orange Coffee,2
+Regular Mango Coffee,2
+Regular Mixed Fruit Coffee,2
+Regular Mint Coffee,2
+Regular Coffee,2
+Iced Sweet Coffee,32
+Iced Black Coffee,2
+Iced Green Coffee,2
+Iced Lemon Coffee,2
+Iced Masala Coffee,2
+Iced Ginger Coffee,2
+Iced Apple Coffee,2
+Iced Orange Coffee,2
+Iced Mango Coffee,2
+Iced Mixed Fruit Coffee,2
+Iced Mint Coffee,2
+Iced Coffee,2
+Cold Sweet Coffee,32
+Cold Black Coffee,2
+Cold Green Coffee,2
+Cold Lemon Coffee,2
+Cold Masala Coffee,2
+Cold Ginger Coffee,2
+Cold Apple Coffee,2
+Cold Orange Coffee,2
+Cold Mango Coffee,2
+Cold Mixed Fruit Coffee,2
+Cold Mint Coffee,2
+Cold Coffee,2
+Hot Sweet Coffee,32
+Hot Black Coffee,2
+Hot Green Coffee,2
+Hot Lemon Coffee,2
+Hot Masala Coffee,2
+Hot Ginger Coffee,2
+Hot Apple Coffee,2
+Hot Orange Coffee,2
+Hot Mango Coffee,2
+Hot Mixed Fruit Coffee,2
+Hot Mint Coffee,2
+Hot Coffee,2
+Diet Sweet Coffee,31
+Diet Black Coffee,2
+Diet Green Coffee,2
+Diet Lemon Coffee,1
+Diet Masala Coffee,1
+Diet Ginger Coffee,1
+Diet Apple Coffee,1
+Diet Orange Coffee,1
+Diet Mango Coffee,1
+Diet Mixed Fruit Coffee,1
+Diet Mint Coffee,1
+Diet Coffee,1
+Sugar-Free Sweet Coffee,31
+Sugar-Free Black Coffee,2
+Sugar-Free Green Coffee,2
+Sugar-Free Lemon Coffee,1
+Sugar-Free Masala Coffee,1
+Sugar-Free Ginger Coffee,1
+Sugar-Free Apple Coffee,1
+Sugar-Free Orange Coffee,1
+Sugar-Free Mango Coffee,1
+Sugar-Free Mixed Fruit Coffee,1
+Sugar-Free Mint Coffee,1
+Sugar-Free Coffee,1
+Premium Sweet Coffee,32
+Premium Black Coffee,2
+Premium Green Coffee,2
+Premium Lemon Coffee,2
+Premium Masala Coffee,2
+Premium Ginger Coffee,2
+Premium Apple Coffee,2
+Premium Orange Coffee,2
+Premium Mango Coffee,2
+Premium Mixed Fruit Coffee,2
+Premium Mint Coffee,2
+Premium Coffee,2
+Fresh Sweet Coffee,32
+Fresh Black Coffee,2
+Fresh Green Coffee,2
+Fresh Lemon Coffee,2
+Fresh Masala Coffee,2
+Fresh Ginger Coffee,2
+Fresh Apple Coffee,2
+Fresh Orange Coffee,2
+Fresh Mango Coffee,2
+Fresh Mixed Fruit Coffee,2
+Fresh Mint Coffee,2
+Fresh Coffee,2
+Regular Sweet Milk,42
+Regular Black Milk,42
+Regular Green Milk,42
+Regular Lemon Milk,42
+Regular Masala Milk,42
+Regular Ginger Milk,42
+Regular Apple Milk,42
+Regular Orange Milk,42
+Regular Mango Milk,42
+Regular Mixed Fruit Milk,42
+Regular Mint Milk,42
+Regular Milk,42
+Iced Sweet Milk,42
+Iced Black Milk,42
+Iced Green Milk,42
+Iced Lemon Milk,42
+Iced Masala Milk,42
+Iced Ginger Milk,42
+Iced Apple Milk,42
+Iced Orange Milk,42
+Iced Mango Milk,42
+Iced Mixed Fruit Milk,42
+Iced Mint Milk,42
+Iced Milk,42
+Cold Sweet Milk,42
+Cold Black Milk,42
+Cold Green Milk,42
+Cold Lemon Milk,42
+Cold Masala Milk,42
+Cold Ginger Milk,42
+Cold Apple Milk,42
+Cold Orange Milk,42
+Cold Mango Milk,42
+Cold Mixed Fruit Milk,42
+Cold Mint Milk,42
+Cold Milk,42
+Hot Sweet Milk,42
+Hot Black Milk,42
+Hot Green Milk,42
+Hot Lemon Milk,42
+Hot Masala Milk,42
+Hot Ginger Milk,42
+Hot Apple Milk,42
+Hot Orange Milk,42
+Hot Mango Milk,42
+Hot Mixed Fruit Milk,42
+Hot Mint Milk,42
+Hot Milk,42
+Diet Sweet Milk,21
+Diet Black Milk,21
+Diet Green Milk,21
+Diet Lemon Milk,21
+Diet Masala Milk,21
+Diet Ginger Milk,21
+Diet Apple Milk,21
+Diet Orange Milk,21
+Diet Mango Milk,21
+Diet Mixed Fruit Milk,21
+Diet Mint Milk,21
+Diet Milk,21
+Sugar-Free Sweet Milk,21
+Sugar-Free Black Milk,21
+Sugar-Free Green Milk,21
+Sugar-Free Lemon Milk,21
+Sugar-Free Masala Milk,21
+Sugar-Free Ginger Milk,21
+Sugar-Free Apple Milk,21
+Sugar-Free Orange Milk,21
+Sugar-Free Mango Milk,21
+Sugar-Free Mixed Fruit Milk,21
+Sugar-Free Mint Milk,21
+Sugar-Free Milk,21
+Premium Sweet Milk,42
+Premium Black Milk,42
+Premium Green Milk,42
+Premium Lemon Milk,42
+Premium Masala Milk,42
+Premium Ginger Milk,42
+Premium Apple Milk,42
+Premium Orange Milk,42
+Premium Mango Milk,42
+Premium Mixed Fruit Milk,42
+Premium Mint Milk,42
+Premium Milk,42
+Fresh Sweet Milk,42
+Fresh Black Milk,42
+Fresh Green Milk,42
+Fresh Lemon Milk,42
+Fresh Masala Milk,42
+Fresh Ginger Milk,42
+Fresh Apple Milk,42
+Fresh Orange Milk,42
+Fresh Mango Milk,42
+Fresh Mixed Fruit Milk,42
+Fresh Mint Milk,42
+Fresh Milk,42
+Regular Sweet Juice,45
+Regular Black Juice,45
+Regular Green Juice,45
+Regular Lemon Juice,45
+Regular Masala Juice,45
+Regular Ginger Juice,45
+Regular Apple Juice,45
+Regular Orange Juice,45
+Regular Mango Juice,45
+Regular Mixed Fruit Juice,45
+Regular Mint Juice,45
+Regular Juice,45
+Iced Sweet Juice,45
+Iced Black Juice,45
+Iced Green Juice,45
+Iced Lemon Juice,45
+Iced Masala Juice,45
+Iced Ginger Juice,45
+Iced Apple Juice,45
+Iced Orange Juice,45
+Iced Mango Juice,45
+Iced Mixed Fruit Juice,45
+Iced Mint Juice,45
+Iced Juice,45
+Cold Sweet Juice,45
+Cold Black Juice,45
+Cold Green Juice,45
+Cold Lemon Juice,45
+Cold Masala Juice,45
+Cold Ginger Juice,45
+Cold Apple Juice,45
+Cold Orange Juice,45
+Cold Mango Juice,45
+Cold Mixed Fruit Juice,45
+Cold Mint Juice,45
+Cold Juice,45
+Hot Sweet Juice,45
+Hot Black Juice,45
+Hot Green Juice,45
+Hot Lemon Juice,45
+Hot Masala Juice,45
+Hot Ginger Juice,45
+Hot Apple Juice,45
+Hot Orange Juice,45
+Hot Mango Juice,45
+Hot Mixed Fruit Juice,45
+Hot Mint Juice,45
+Hot Juice,45
+Diet Sweet Juice,22
+Diet Black Juice,22
+Diet Green Juice,22
+Diet Lemon Juice,22
+Diet Masala Juice,22
+Diet Ginger Juice,22
+Diet Apple Juice,22
+Diet Orange Juice,22
+Diet Mango Juice,22
+Diet Mixed Fruit Juice,22
+Diet Mint Juice,22
+Diet Juice,22
+Sugar-Free Sweet Juice,22
+Sugar-Free Black Juice,22
+Sugar-Free Green Juice,22
+Sugar-Free Lemon Juice,22
+Sugar-Free Masala Juice,22
+Sugar-Free Ginger Juice,22
+Sugar-Free Apple Juice,22
+Sugar-Free Orange Juice,22
+Sugar-Free Mango Juice,22
+Sugar-Free Mixed Fruit Juice,22
+Sugar-Free Mint Juice,22
+Sugar-Free Juice,22
+Premium Sweet Juice,45
+Premium Black Juice,45
+Premium Green Juice,45
+Premium Lemon Juice,45
+Premium Masala Juice,45
+Premium Ginger Juice,45
+Premium Apple Juice,45
+Premium Orange Juice,45
+Premium Mango Juice,45
+Premium Mixed Fruit Juice,45
+Premium Mint Juice,45
+Premium Juice,45
+Fresh Sweet Juice,45
+Fresh Black Juice,45
+Fresh Green Juice,45
+Fresh Lemon Juice,45
+Fresh Masala Juice,45
+Fresh Ginger Juice,45
+Fresh Apple Juice,45
+Fresh Orange Juice,45
+Fresh Mango Juice,45
+Fresh Mixed Fruit Juice,45
+Fresh Mint Juice,45
+Fresh Juice,45
+Regular Sweet Soda,41
+Regular Black Soda,41
+Regular Green Soda,41
+Regular Lemon Soda,41
+Regular Masala Soda,41
+Regular Ginger Soda,41
+Regular Apple Soda,41
+Regular Orange Soda,41
+Regular Mango Soda,41
+Regular Mixed Fruit Soda,41
+Regular Mint Soda,41
+Regular Soda,41
+Iced Sweet Soda,41
+Iced Black Soda,41
+Iced Green Soda,41
+Iced Lemon Soda,41
+Iced Masala Soda,41
+Iced Ginger Soda,41
+Iced Apple Soda,41
+Iced Orange Soda,41
+Iced Mango Soda,41
+Iced Mixed Fruit Soda,41
+Iced Mint Soda,41
+Iced Soda,41
+Cold Sweet Soda,41
+Cold Black Soda,41
+Cold Green Soda,41
+Cold Lemon Soda,41
+Cold Masala Soda,41
+Cold Ginger Soda,41
+Cold Apple Soda,41
+Cold Orange Soda,41
+Cold Mango Soda,41
+Cold Mixed Fruit Soda,41
+Cold Mint Soda,41
+Cold Soda,41
+Hot Sweet Soda,41
+Hot Black Soda,41
+Hot Green Soda,41
+Hot Lemon Soda,41
+Hot Masala Soda,41
+Hot Ginger Soda,41
+Hot Apple Soda,41
+Hot Orange Soda,41
+Hot Mango Soda,41
+Hot Mixed Fruit Soda,41
+Hot Mint Soda,41
+Hot Soda,41
+Diet Sweet Soda,2
+Diet Black Soda,2
+Diet Green Soda,2
+Diet Lemon Soda,2
+Diet Masala Soda,2
+Diet Ginger Soda,2
+Diet Apple Soda,2
+Diet Orange Soda,2
+Diet Mango Soda,2
+Diet Mixed Fruit Soda,2
+Diet Mint Soda,2
+Diet Soda,2
+Sugar-Free Sweet Soda,2
+Sugar-Free Black Soda,2
+Sugar-Free Green Soda,2
+Sugar-Free Lemon Soda,2
+Sugar-Free Masala Soda,2
+Sugar-Free Ginger Soda,2
+Sugar-Free Apple Soda,2
+Sugar-Free Orange Soda,2
+Sugar-Free Mango Soda,2
+Sugar-Free Mixed Fruit Soda,2
+Sugar-Free Mint Soda,2
+Sugar-Free Soda,2
+Premium Sweet Soda,41
+Premium Black Soda,41
+Premium Green Soda,41
+Premium Lemon Soda,41
+Premium Masala Soda,41
+Premium Ginger Soda,41
+Premium Apple Soda,41
+Premium Orange Soda,41
+Premium Mango Soda,41
+Premium Mixed Fruit Soda,41
+Premium Mint Soda,41
+Premium Soda,41
+Fresh Sweet Soda,41
+Fresh Black Soda,41
+Fresh Green Soda,41
+Fresh Lemon Soda,41
+Fresh Masala Soda,41
+Fresh Ginger Soda,41
+Fresh Apple Soda,41
+Fresh Orange Soda,41
+Fresh Mango Soda,41
+Fresh Mixed Fruit Soda,41
+Fresh Mint Soda,41
+Fresh Soda,41
+Regular Sweet Cola,43
+Regular Black Cola,43
+Regular Green Cola,43
+Regular Lemon Cola,43
+Regular Masala Cola,43
+Regular Ginger Cola,43
+Regular Apple Cola,43
+Regular Orange Cola,43
+Regular Mango Cola,43
+Regular Mixed Fruit Cola,43
+Regular Mint Cola,43
+Regular Cola,43
+Iced Sweet Cola,43
+Iced Black Cola,43
+Iced Green Cola,43
+Iced Lemon Cola,43
+Iced Masala Cola,43
+Iced Ginger Cola,43
+Iced Apple Cola,43
+Iced Orange Cola,43
+Iced Mango Cola,43
+Iced Mixed Fruit Cola,43
+Iced Mint Cola,43
+Iced Cola,43
+Cold Sweet Cola,43
+Cold Black Cola,43
+Cold Green Cola,43
+Cold Lemon Cola,43
+Cold Masala Cola,43
+Cold Ginger Cola,43
+Cold Apple Cola,43
+Cold Orange Cola,43
+Cold Mango Cola,43
+Cold Mixed Fruit Cola,43
+Cold Mint Cola,43
+Cold Cola,43
+Hot Sweet Cola,43
+Hot Black Cola,43
+Hot Green Cola,43
+Hot Lemon Cola,43
+Hot Masala Cola,43
+Hot Ginger Cola,43
+Hot Apple Cola,43
+Hot Orange Cola,43
+Hot Mango Cola,43
+Hot Mixed Fruit Cola,43
+Hot Mint Cola,43
+Hot Cola,43
+Diet Sweet Cola,2
+Diet Black Cola,2
+Diet Green Cola,2
+Diet Lemon Cola,2
+Diet Masala Cola,2
+Diet Ginger Cola,2
+Diet Apple Cola,2
+Diet Orange Cola,2
+Diet Mango Cola,2
+Diet Mixed Fruit Cola,2
+Diet Mint Cola,2
+Diet Cola,2
+Sugar-Free Sweet Cola,2
+Sugar-Free Black Cola,2
+Sugar-Free Green Cola,2
+Sugar-Free Lemon Cola,2
+Sugar-Free Masala Cola,2
+Sugar-Free Ginger Cola,2
+Sugar-Free Apple Cola,2
+Sugar-Free Orange Cola,2
+Sugar-Free Mango Cola,2
+Sugar-Free Mixed Fruit Cola,2
+Sugar-Free Mint Cola,2
+Sugar-Free Cola,2
+Premium Sweet Cola,43
+Premium Black Cola,43
+Premium Green Cola,43
+Premium Lemon Cola,43
+Premium Masala Cola,43
+Premium Ginger Cola,43
+Premium Apple Cola,43
+Premium Orange Cola,43
+Premium Mango Cola,43
+Premium Mixed Fruit Cola,43
+Premium Mint Cola,43
+Premium Cola,43
+Fresh Sweet Cola,43
+Fresh Black Cola,43
+Fresh Green Cola,43
+Fresh Lemon Cola,43
+Fresh Masala Cola,43
+Fresh Ginger Cola,43
+Fresh Apple Cola,43
+Fresh Orange Cola,43
+Fresh Mango Cola,43
+Fresh Mixed Fruit Cola,43
+Fresh Mint Cola,43
+Fresh Cola,43
+Regular Sweet Energy Drink,45
+Regular Black Energy Drink,45
+Regular Green Energy Drink,45
+Regular Lemon Energy Drink,45
+Regular Masala Energy Drink,45
+Regular Ginger Energy Drink,45
+Regular Apple Energy Drink,45
+Regular Orange Energy Drink,45
+Regular Mango Energy Drink,45
+Regular Mixed Fruit Energy Drink,45
+Regular Mint Energy Drink,45
+Regular Energy Drink,45
+Iced Sweet Energy Drink,45
+Iced Black Energy Drink,45
+Iced Green Energy Drink,45
+Iced Lemon Energy Drink,45
+Iced Masala Energy Drink,45
+Iced Ginger Energy Drink,45
+Iced Apple Energy Drink,45
+Iced Orange Energy Drink,45
+Iced Mango Energy Drink,45
+Iced Mixed Fruit Energy Drink,45
+Iced Mint Energy Drink,45
+Iced Energy Drink,45
+Cold Sweet Energy Drink,45
+Cold Black Energy Drink,45
+Cold Green Energy Drink,45
+Cold Lemon Energy Drink,45
+Cold Masala Energy Drink,45
+Cold Ginger Energy Drink,45
+Cold Apple Energy Drink,45
+Cold Orange Energy Drink,45
+Cold Mango Energy Drink,45
+Cold Mixed Fruit Energy Drink,45
+Cold Mint Energy Drink,45
+Cold Energy Drink,45
+Hot Sweet Energy Drink,45
+Hot Black Energy Drink,45
+Hot Green Energy Drink,45
+Hot Lemon Energy Drink,45
+Hot Masala Energy Drink,45
+Hot Ginger Energy Drink,45
+Hot Apple Energy Drink,45
+Hot Orange Energy Drink,45
+Hot Mango Energy Drink,45
+Hot Mixed Fruit Energy Drink,45
+Hot Mint Energy Drink,45
+Hot Energy Drink,45
+Diet Sweet Energy Drink,2
+Diet Black Energy Drink,2
+Diet Green Energy Drink,2
+Diet Lemon Energy Drink,2
+Diet Masala Energy Drink,2
+Diet Ginger Energy Drink,2
+Diet Apple Energy Drink,2
+Diet Orange Energy Drink,2
+Diet Mango Energy Drink,2
+Diet Mixed Fruit Energy Drink,2
+Diet Mint Energy Drink,2
+Diet Energy Drink,2
+Sugar-Free Sweet Energy Drink,2
+Sugar-Free Black Energy Drink,2
+Sugar-Free Green Energy Drink,2
+Sugar-Free Lemon Energy Drink,2
+Sugar-Free Masala Energy Drink,2
+Sugar-Free Ginger Energy Drink,2
+Sugar-Free Apple Energy Drink,2
+Sugar-Free Orange Energy Drink,2
+Sugar-Free Mango Energy Drink,2
+Sugar-Free Mixed Fruit Energy Drink,2
+Sugar-Free Mint Energy Drink,2
+Sugar-Free Energy Drink,2
+Premium Sweet Energy Drink,45
+Premium Black Energy Drink,45
+Premium Green Energy Drink,45
+Premium Lemon Energy Drink,45
+Premium Masala Energy Drink,45
+Premium Ginger Energy Drink,45
+Premium Apple Energy Drink,45
+Premium Orange Energy Drink,45
+Premium Mango Energy Drink,45
+Premium Mixed Fruit Energy Drink,45
+Premium Mint Energy Drink,45
+Premium Energy Drink,45
+Fresh Sweet Energy Drink,45
+Fresh Black Energy Drink,45
+Fresh Green Energy Drink,45
+Fresh Lemon Energy Drink,45
+Fresh Masala Energy Drink,45
+Fresh Ginger Energy Drink,45
+Fresh Apple Energy Drink,45
+Fresh Orange Energy Drink,45
+Fresh Mango Energy Drink,45
+Fresh Mixed Fruit Energy Drink,45
+Fresh Mint Energy Drink,45
+Fresh Energy Drink,45
+Regular Sweet Buttermilk,40
+Regular Black Buttermilk,40
+Regular Green Buttermilk,40
+Regular Lemon Buttermilk,40
+Regular Masala Buttermilk,40
+Regular Ginger Buttermilk,40
+Regular Apple Buttermilk,40
+Regular Orange Buttermilk,40
+Regular Mango Buttermilk,40
+Regular Mixed Fruit Buttermilk,40
+Regular Mint Buttermilk,40
+Regular Buttermilk,40
+Iced Sweet Buttermilk,40
+Iced Black Buttermilk,40
+Iced Green Buttermilk,40
+Iced Lemon Buttermilk,40
+Iced Masala Buttermilk,40
+Iced Ginger Buttermilk,40
+Iced Apple Buttermilk,40
+Iced Orange Buttermilk,40
+Iced Mango Buttermilk,40
+Iced Mixed Fruit Buttermilk,40
+Iced Mint Buttermilk,40
+Iced Buttermilk,40
+Cold Sweet Buttermilk,40
+Cold Black Buttermilk,40
+Cold Green Buttermilk,40
+Cold Lemon Buttermilk,40
+Cold Masala Buttermilk,40
+Cold Ginger Buttermilk,40
+Cold Apple Buttermilk,40
+Cold Orange Buttermilk,40
+Cold Mango Buttermilk,40
+Cold Mixed Fruit Buttermilk,40
+Cold Mint Buttermilk,40
+Cold Buttermilk,40
+Hot Sweet Buttermilk,40
+Hot Black Buttermilk,40
+Hot Green Buttermilk,40
+Hot Lemon Buttermilk,40
+Hot Masala Buttermilk,40
+Hot Ginger Buttermilk,40
+Hot Apple Buttermilk,40
+Hot Orange Buttermilk,40
+Hot Mango Buttermilk,40
+Hot Mixed Fruit Buttermilk,40
+Hot Mint Buttermilk,40
+Hot Buttermilk,40
+Diet Sweet Buttermilk,20
+Diet Black Buttermilk,20
+Diet Green Buttermilk,20
+Diet Lemon Buttermilk,20
+Diet Masala Buttermilk,20
+Diet Ginger Buttermilk,20
+Diet Apple Buttermilk,20
+Diet Orange Buttermilk,20
+Diet Mango Buttermilk,20
+Diet Mixed Fruit Buttermilk,20
+Diet Mint Buttermilk,20
+Diet Buttermilk,20
+Sugar-Free Sweet Buttermilk,20
+Sugar-Free Black Buttermilk,20
+Sugar-Free Green Buttermilk,20
+Sugar-Free Lemon Buttermilk,20
+Sugar-Free Masala Buttermilk,20
+Sugar-Free Ginger Buttermilk,20
+Sugar-Free Apple Buttermilk,20
+Sugar-Free Orange Buttermilk,20
+Sugar-Free Mango Buttermilk,20
+Sugar-Free Mixed Fruit Buttermilk,20
+Sugar-Free Mint Buttermilk,20
+Sugar-Free Buttermilk,20
+Premium Sweet Buttermilk,40
+Premium Black Buttermilk,40
+Premium Green Buttermilk,40
+Premium Lemon Buttermilk,40
+Premium Masala Buttermilk,40
+Premium Ginger Buttermilk,40
+Premium Apple Buttermilk,40
+Premium Orange Buttermilk,40
+Premium Mango Buttermilk,40
+Premium Mixed Fruit Buttermilk,40
+Premium Mint Buttermilk,40
+Premium Buttermilk,40
+Fresh Sweet Buttermilk,40
+Fresh Black Buttermilk,40
+Fresh Green Buttermilk,40
+Fresh Lemon Buttermilk,40
+Fresh Masala Buttermilk,40
+Fresh Ginger Buttermilk,40
+Fresh Apple Buttermilk,40
+Fresh Orange Buttermilk,40
+Fresh Mango Buttermilk,40
+Fresh Mixed Fruit Buttermilk,40
+Fresh Mint Buttermilk,40
+Fresh Buttermilk,40
+Regular Sweet Lassi,97
+Regular Black Lassi,75
+Regular Green Lassi,75
+Regular Lemon Lassi,75
+Regular Masala Lassi,75
+Regular Ginger Lassi,75
+Regular Apple Lassi,75
+Regular Orange Lassi,75
+Regular Mango Lassi,97
+Regular Mixed Fruit Lassi,75
+Regular Mint Lassi,75
+Regular Lassi,75
+Iced Sweet Lassi,97
+Iced Black Lassi,75
+Iced Green Lassi,75
+Iced Lemon Lassi,75
+Iced Masala Lassi,75
+Iced Ginger Lassi,75
+Iced Apple Lassi,75
+Iced Orange Lassi,75
+Iced Mango Lassi,97
+Iced Mixed Fruit Lassi,75
+Iced Mint Lassi,75
+Iced Lassi,75
+Cold Sweet Lassi,97
+Cold Black Lassi,75
+Cold Green Lassi,75
+Cold Lemon Lassi,75
+Cold Masala Lassi,75
+Cold Ginger Lassi,75
+Cold Apple Lassi,75
+Cold Orange Lassi,75
+Cold Mango Lassi,97
+Cold Mixed Fruit Lassi,75
+Cold Mint Lassi,75
+Cold Lassi,75
+Hot Sweet Lassi,97
+Hot Black Lassi,75
+Hot Green Lassi,75
+Hot Lemon Lassi,75
+Hot Masala Lassi,75
+Hot Ginger Lassi,75
+Hot Apple Lassi,75
+Hot Orange Lassi,75
+Hot Mango Lassi,97
+Hot Mixed Fruit Lassi,75
+Hot Mint Lassi,75
+Hot Lassi,75
+Diet Sweet Lassi,37
+Diet Black Lassi,37
+Diet Green Lassi,37
+Diet Lemon Lassi,37
+Diet Masala Lassi,37
+Diet Ginger Lassi,37
+Diet Apple Lassi,37
+Diet Orange Lassi,37
+Diet Mango Lassi,37
+Diet Mixed Fruit Lassi,37
+Diet Mint Lassi,37
+Diet Lassi,37
+Sugar-Free Sweet Lassi,37
+Sugar-Free Black Lassi,37
+Sugar-Free Green Lassi,37
+Sugar-Free Lemon Lassi,37
+Sugar-Free Masala Lassi,37
+Sugar-Free Ginger Lassi,37
+Sugar-Free Apple Lassi,37
+Sugar-Free Orange Lassi,37
+Sugar-Free Mango Lassi,37
+Sugar-Free Mixed Fruit Lassi,37
+Sugar-Free Mint Lassi,37
+Sugar-Free Lassi,37
+Premium Sweet Lassi,97
+Premium Black Lassi,75
+Premium Green Lassi,75
+Premium Lemon Lassi,75
+Premium Masala Lassi,75
+Premium Ginger Lassi,75
+Premium Apple Lassi,75
+Premium Orange Lassi,75
+Premium Mango Lassi,97
+Premium Mixed Fruit Lassi,75
+Premium Mint Lassi,75
+Premium Lassi,75
+Fresh Sweet Lassi,97
+Fresh Black Lassi,75
+Fresh Green Lassi,75
+Fresh Lemon Lassi,75
+Fresh Masala Lassi,75
+Fresh Ginger Lassi,75
+Fresh Apple Lassi,75
+Fresh Orange Lassi,75
+Fresh Mango Lassi,97
+Fresh Mixed Fruit Lassi,75
+Fresh Mint Lassi,75
+Fresh Lassi,75
+Regular Sweet Lemonade,25
+Regular Black Lemonade,25
+Regular Green Lemonade,25
+Regular Lemon Lemonade,25
+Regular Masala Lemonade,25
+Regular Ginger Lemonade,25
+Regular Apple Lemonade,25
+Regular Orange Lemonade,25
+Regular Mango Lemonade,25
+Regular Mixed Fruit Lemonade,25
+Regular Mint Lemonade,25
+Regular Lemonade,25
+Iced Sweet Lemonade,25
+Iced Black Lemonade,25
+Iced Green Lemonade,25
+Iced Lemon Lemonade,25
+Iced Masala Lemonade,25
+Iced Ginger Lemonade,25
+Iced Apple Lemonade,25
+Iced Orange Lemonade,25
+Iced Mango Lemonade,25
+Iced Mixed Fruit Lemonade,25
+Iced Mint Lemonade,25
+Iced Lemonade,25
+Cold Sweet Lemonade,25
+Cold Black Lemonade,25
+Cold Green Lemonade,25
+Cold Lemon Lemonade,25
+Cold Masala Lemonade,25
+Cold Ginger Lemonade,25
+Cold Apple Lemonade,25
+Cold Orange Lemonade,25
+Cold Mango Lemonade,25
+Cold Mixed Fruit Lemonade,25
+Cold Mint Lemonade,25
+Cold Lemonade,25
+Hot Sweet Lemonade,25
+Hot Black Lemonade,25
+Hot Green Lemonade,25
+Hot Lemon Lemonade,25
+Hot Masala Lemonade,25
+Hot Ginger Lemonade,25
+Hot Apple Lemonade,25
+Hot Orange Lemonade,25
+Hot Mango Lemonade,25
+Hot Mixed Fruit Lemonade,25
+Hot Mint Lemonade,25
+Hot Lemonade,25
+Diet Sweet Lemonade,1
+Diet Black Lemonade,1
+Diet Green Lemonade,1
+Diet Lemon Lemonade,1
+Diet Masala Lemonade,1
+Diet Ginger Lemonade,1
+Diet Apple Lemonade,1
+Diet Orange Lemonade,1
+Diet Mango Lemonade,1
+Diet Mixed Fruit Lemonade,1
+Diet Mint Lemonade,1
+Diet Lemonade,1
+Sugar-Free Sweet Lemonade,1
+Sugar-Free Black Lemonade,1
+Sugar-Free Green Lemonade,1
+Sugar-Free Lemon Lemonade,1
+Sugar-Free Masala Lemonade,1
+Sugar-Free Ginger Lemonade,1
+Sugar-Free Apple Lemonade,1
+Sugar-Free Orange Lemonade,1
+Sugar-Free Mango Lemonade,1
+Sugar-Free Mixed Fruit Lemonade,1
+Sugar-Free Mint Lemonade,1
+Sugar-Free Lemonade,1
+Premium Sweet Lemonade,25
+Premium Black Lemonade,25
+Premium Green Lemonade,25
+Premium Lemon Lemonade,25
+Premium Masala Lemonade,25
+Premium Ginger Lemonade,25
+Premium Apple Lemonade,25
+Premium Orange Lemonade,25
+Premium Mango Lemonade,25
+Premium Mixed Fruit Lemonade,25
+Premium Mint Lemonade,25
+Premium Lemonade,25
+Fresh Sweet Lemonade,25
+Fresh Black Lemonade,25
+Fresh Green Lemonade,25
+Fresh Lemon Lemonade,25
+Fresh Masala Lemonade,25
+Fresh Ginger Lemonade,25
+Fresh Apple Lemonade,25
+Fresh Orange Lemonade,25
+Fresh Mango Lemonade,25
+Fresh Mixed Fruit Lemonade,25
+Fresh Mint Lemonade,25
+Fresh Lemonade,25
+Regular Sweet Coconut Water,19
+Regular Black Coconut Water,19
+Regular Green Coconut Water,19
+Regular Lemon Coconut Water,19
+Regular Masala Coconut Water,19
+Regular Ginger Coconut Water,19
+Regular Apple Coconut Water,19
+Regular Orange Coconut Water,19
+Regular Mango Coconut Water,19
+Regular Mixed Fruit Coconut Water,19
+Regular Mint Coconut Water,19
+Regular Coconut Water,19
+Iced Sweet Coconut Water,19
+Iced Black Coconut Water,19
+Iced Green Coconut Water,19
+Iced Lemon Coconut Water,19
+Iced Masala Coconut Water,19
+Iced Ginger Coconut Water,19
+Iced Apple Coconut Water,19
+Iced Orange Coconut Water,19
+Iced Mango Coconut Water,19
+Iced Mixed Fruit Coconut Water,19
+Iced Mint Coconut Water,19
+Iced Coconut Water,19
+Cold Sweet Coconut Water,19
+Cold Black Coconut Water,19
+Cold Green Coconut Water,19
+Cold Lemon Coconut Water,19
+Cold Masala Coconut Water,19
+Cold Ginger Coconut Water,19
+Cold Apple Coconut Water,19
+Cold Orange Coconut Water,19
+Cold Mango Coconut Water,19
+Cold Mixed Fruit Coconut Water,19
+Cold Mint Coconut Water,19
+Cold Coconut Water,19
+Hot Sweet Coconut Water,19
+Hot Black Coconut Water,19
+Hot Green Coconut Water,19
+Hot Lemon Coconut Water,19
+Hot Masala Coconut Water,19
+Hot Ginger Coconut Water,19
+Hot Apple Coconut Water,19
+Hot Orange Coconut Water,19
+Hot Mango Coconut Water,19
+Hot Mixed Fruit Coconut Water,19
+Hot Mint Coconut Water,19
+Hot Coconut Water,19
+Diet Sweet Coconut Water,9
+Diet Black Coconut Water,9
+Diet Green Coconut Water,9
+Diet Lemon Coconut Water,9
+Diet Masala Coconut Water,9
+Diet Ginger Coconut Water,9
+Diet Apple Coconut Water,9
+Diet Orange Coconut Water,9
+Diet Mango Coconut Water,9
+Diet Mixed Fruit Coconut Water,9
+Diet Mint Coconut Water,9
+Diet Coconut Water,9
+Sugar-Free Sweet Coconut Water,9
+Sugar-Free Black Coconut Water,9
+Sugar-Free Green Coconut Water,9
+Sugar-Free Lemon Coconut Water,9
+Sugar-Free Masala Coconut Water,9
+Sugar-Free Ginger Coconut Water,9
+Sugar-Free Apple Coconut Water,9
+Sugar-Free Orange Coconut Water,9
+Sugar-Free Mango Coconut Water,9
+Sugar-Free Mixed Fruit Coconut Water,9
+Sugar-Free Mint Coconut Water,9
+Sugar-Free Coconut Water,9
+Premium Sweet Coconut Water,19
+Premium Black Coconut Water,19
+Premium Green Coconut Water,19
+Premium Lemon Coconut Water,19
+Premium Masala Coconut Water,19
+Premium Ginger Coconut Water,19
+Premium Apple Coconut Water,19
+Premium Orange Coconut Water,19
+Premium Mango Coconut Water,19
+Premium Mixed Fruit Coconut Water,19
+Premium Mint Coconut Water,19
+Premium Coconut Water,19
+Fresh Sweet Coconut Water,19
+Fresh Black Coconut Water,19
+Fresh Green Coconut Water,19
+Fresh Lemon Coconut Water,19
+Fresh Masala Coconut Water,19
+Fresh Ginger Coconut Water,19
+Fresh Apple Coconut Water,19
+Fresh Orange Coconut Water,19
+Fresh Mango Coconut Water,19
+Fresh Mixed Fruit Coconut Water,19
+Fresh Mint Coconut Water,19
+Fresh Coconut Water,19
+Regular Sweet Beer,43
+Regular Black Beer,43
+Regular Green Beer,43
+Regular Lemon Beer,43
+Regular Masala Beer,43
+Regular Ginger Beer,43
+Regular Apple Beer,43
+Regular Orange Beer,43
+Regular Mango Beer,43
+Regular Mixed Fruit Beer,43
+Regular Mint Beer,43
+Regular Beer,43
+Iced Sweet Beer,43
+Iced Black Beer,43
+Iced Green Beer,43
+Iced Lemon Beer,43
+Iced Masala Beer,43
+Iced Ginger Beer,43
+Iced Apple Beer,43
+Iced Orange Beer,43
+Iced Mango Beer,43
+Iced Mixed Fruit Beer,43
+Iced Mint Beer,43
+Iced Beer,43
+Cold Sweet Beer,43
+Cold Black Beer,43
+Cold Green Beer,43
+Cold Lemon Beer,43
+Cold Masala Beer,43
+Cold Ginger Beer,43
+Cold Apple Beer,43
+Cold Orange Beer,43
+Cold Mango Beer,43
+Cold Mixed Fruit Beer,43
+Cold Mint Beer,43
+Cold Beer,43
+Hot Sweet Beer,43
+Hot Black Beer,43
+Hot Green Beer,43
+Hot Lemon Beer,43
+Hot Masala Beer,43
+Hot Ginger Beer,43
+Hot Apple Beer,43
+Hot Orange Beer,43
+Hot Mango Beer,43
+Hot Mixed Fruit Beer,43
+Hot Mint Beer,43
+Hot Beer,43
+Diet Sweet Beer,21
+Diet Black Beer,21
+Diet Green Beer,21
+Diet Lemon Beer,21
+Diet Masala Beer,21
+Diet Ginger Beer,21
+Diet Apple Beer,21
+Diet Orange Beer,21
+Diet Mango Beer,21
+Diet Mixed Fruit Beer,21
+Diet Mint Beer,21
+Diet Beer,21
+Sugar-Free Sweet Beer,21
+Sugar-Free Black Beer,21
+Sugar-Free Green Beer,21
+Sugar-Free Lemon Beer,21
+Sugar-Free Masala Beer,21
+Sugar-Free Ginger Beer,21
+Sugar-Free Apple Beer,21
+Sugar-Free Orange Beer,21
+Sugar-Free Mango Beer,21
+Sugar-Free Mixed Fruit Beer,21
+Sugar-Free Mint Beer,21
+Sugar-Free Beer,21
+Premium Sweet Beer,43
+Premium Black Beer,43
+Premium Green Beer,43
+Premium Lemon Beer,43
+Premium Masala Beer,43
+Premium Ginger Beer,43
+Premium Apple Beer,43
+Premium Orange Beer,43
+Premium Mango Beer,43
+Premium Mixed Fruit Beer,43
+Premium Mint Beer,43
+Premium Beer,43
+Fresh Sweet Beer,43
+Fresh Black Beer,43
+Fresh Green Beer,43
+Fresh Lemon Beer,43
+Fresh Masala Beer,43
+Fresh Ginger Beer,43
+Fresh Apple Beer,43
+Fresh Orange Beer,43
+Fresh Mango Beer,43
+Fresh Mixed Fruit Beer,43
+Fresh Mint Beer,43
+Fresh Beer,43
+Regular Sweet Wine,83
+Regular Black Wine,83
+Regular Green Wine,83
+Regular Lemon Wine,83
+Regular Masala Wine,83
+Regular Ginger Wine,83
+Regular Apple Wine,83
+Regular Orange Wine,83
+Regular Mango Wine,83
+Regular Mixed Fruit Wine,83
+Regular Mint Wine,83
+Regular Wine,83
+Iced Sweet Wine,83
+Iced Black Wine,83
+Iced Green Wine,83
+Iced Lemon Wine,83
+Iced Masala Wine,83
+Iced Ginger Wine,83
+Iced Apple Wine,83
+Iced Orange Wine,83
+Iced Mango Wine,83
+Iced Mixed Fruit Wine,83
+Iced Mint Wine,83
+Iced Wine,83
+Cold Sweet Wine,83
+Cold Black Wine,83
+Cold Green Wine,83
+Cold Lemon Wine,83
+Cold Masala Wine,83
+Cold Ginger Wine,83
+Cold Apple Wine,83
+Cold Orange Wine,83
+Cold Mango Wine,83
+Cold Mixed Fruit Wine,83
+Cold Mint Wine,83
+Cold Wine,83
+Hot Sweet Wine,83
+Hot Black Wine,83
+Hot Green Wine,83
+Hot Lemon Wine,83
+Hot Masala Wine,83
+Hot Ginger Wine,83
+Hot Apple Wine,83
+Hot Orange Wine,83
+Hot Mango Wine,83
+Hot Mixed Fruit Wine,83
+Hot Mint Wine,83
+Hot Wine,83
+Diet Sweet Wine,41
+Diet Black Wine,41
+Diet Green Wine,41
+Diet Lemon Wine,41
+Diet Masala Wine,41
+Diet Ginger Wine,41
+Diet Apple Wine,41
+Diet Orange Wine,41
+Diet Mango Wine,41
+Diet Mixed Fruit Wine,41
+Diet Mint Wine,41
+Diet Wine,41
+Sugar-Free Sweet Wine,41
+Sugar-Free Black Wine,41
+Sugar-Free Green Wine,41
+Sugar-Free Lemon Wine,41
+Sugar-Free Masala Wine,41
+Sugar-Free Ginger Wine,41
+Sugar-Free Apple Wine,41
+Sugar-Free Orange Wine,41
+Sugar-Free Mango Wine,41
+Sugar-Free Mixed Fruit Wine,41
+Sugar-Free Mint Wine,41
+Sugar-Free Wine,41
+Premium Sweet Wine,83
+Premium Black Wine,83
+Premium Green Wine,83
+Premium Lemon Wine,83
+Premium Masala Wine,83
+Premium Ginger Wine,83
+Premium Apple Wine,83
+Premium Orange Wine,83
+Premium Mango Wine,83
+Premium Mixed Fruit Wine,83
+Premium Mint Wine,83
+Premium Wine,83
+Fresh Sweet Wine,83
+Fresh Black Wine,83
+Fresh Green Wine,83
+Fresh Lemon Wine,83
+Fresh Masala Wine,83
+Fresh Ginger Wine,83
+Fresh Apple Wine,83
+Fresh Orange Wine,83
+Fresh Mango Wine,83
+Fresh Mixed Fruit Wine,83
+Fresh Mint Wine,83
+Fresh Wine,83
+Regular Sweet Smoothie,78
+Regular Black Smoothie,60
+Regular Green Smoothie,60
+Regular Lemon Smoothie,60
+Regular Masala Smoothie,60
+Regular Ginger Smoothie,60
+Regular Apple Smoothie,60
+Regular Orange Smoothie,60
+Regular Mango Smoothie,78
+Regular Mixed Fruit Smoothie,60
+Regular Mint Smoothie,60
+Regular Smoothie,60
+Iced Sweet Smoothie,78
+Iced Black Smoothie,60
+Iced Green Smoothie,60
+Iced Lemon Smoothie,60
+Iced Masala Smoothie,60
+Iced Ginger Smoothie,60
+Iced Apple Smoothie,60
+Iced Orange Smoothie,60
+Iced Mango Smoothie,78
+Iced Mixed Fruit Smoothie,60
+Iced Mint Smoothie,60
+Iced Smoothie,60
+Cold Sweet Smoothie,78
+Cold Black Smoothie,60
+Cold Green Smoothie,60
+Cold Lemon Smoothie,60
+Cold Masala Smoothie,60
+Cold Ginger Smoothie,60
+Cold Apple Smoothie,60
+Cold Orange Smoothie,60
+Cold Mango Smoothie,78
+Cold Mixed Fruit Smoothie,60
+Cold Mint Smoothie,60
+Cold Smoothie,60
+Hot Sweet Smoothie,78
+Hot Black Smoothie,60
+Hot Green Smoothie,60
+Hot Lemon Smoothie,60
+Hot Masala Smoothie,60
+Hot Ginger Smoothie,60
+Hot Apple Smoothie,60
+Hot Orange Smoothie,60
+Hot Mango Smoothie,78
+Hot Mixed Fruit Smoothie,60
+Hot Mint Smoothie,60
+Hot Smoothie,60
+Diet Sweet Smoothie,30
+Diet Black Smoothie,30
+Diet Green Smoothie,30
+Diet Lemon Smoothie,30
+Diet Masala Smoothie,30
+Diet Ginger Smoothie,30
+Diet Apple Smoothie,30
+Diet Orange Smoothie,30
+Diet Mango Smoothie,30
+Diet Mixed Fruit Smoothie,30
+Diet Mint Smoothie,30
+Diet Smoothie,30
+Sugar-Free Sweet Smoothie,30
+Sugar-Free Black Smoothie,30
+Sugar-Free Green Smoothie,30
+Sugar-Free Lemon Smoothie,30
+Sugar-Free Masala Smoothie,30
+Sugar-Free Ginger Smoothie,30
+Sugar-Free Apple Smoothie,30
+Sugar-Free Orange Smoothie,30
+Sugar-Free Mango Smoothie,30
+Sugar-Free Mixed Fruit Smoothie,30
+Sugar-Free Mint Smoothie,30
+Sugar-Free Smoothie,30
+Premium Sweet Smoothie,78
+Premium Black Smoothie,60
+Premium Green Smoothie,60
+Premium Lemon Smoothie,60
+Premium Masala Smoothie,60
+Premium Ginger Smoothie,60
+Premium Apple Smoothie,60
+Premium Orange Smoothie,60
+Premium Mango Smoothie,78
+Premium Mixed Fruit Smoothie,60
+Premium Mint Smoothie,60
+Premium Smoothie,60
+Fresh Sweet Smoothie,78
+Fresh Black Smoothie,60
+Fresh Green Smoothie,60
+Fresh Lemon Smoothie,60
+Fresh Masala Smoothie,60
+Fresh Ginger Smoothie,60
+Fresh Apple Smoothie,60
+Fresh Orange Smoothie,60
+Fresh Mango Smoothie,78
+Fresh Mixed Fruit Smoothie,60
+Fresh Mint Smoothie,60
+Fresh Smoothie,60
+Regular Sweet Milkshake,143
+Regular Black Milkshake,110
+Regular Green Milkshake,110
+Regular Lemon Milkshake,110
+Regular Masala Milkshake,110
+Regular Ginger Milkshake,110
+Regular Apple Milkshake,110
+Regular Orange Milkshake,110
+Regular Mango Milkshake,143
+Regular Mixed Fruit Milkshake,110
+Regular Mint Milkshake,110
+Regular Milkshake,110
+Iced Sweet Milkshake,143
+Iced Black Milkshake,110
+Iced Green Milkshake,110
+Iced Lemon Milkshake,110
+Iced Masala Milkshake,110
+Iced Ginger Milkshake,110
+Iced Apple Milkshake,110
+Iced Orange Milkshake,110
+Iced Mango Milkshake,143
+Iced Mixed Fruit Milkshake,110
+Iced Mint Milkshake,110
+Iced Milkshake,110
+Cold Sweet Milkshake,143
+Cold Black Milkshake,110
+Cold Green Milkshake,110
+Cold Lemon Milkshake,110
+Cold Masala Milkshake,110
+Cold Ginger Milkshake,110
+Cold Apple Milkshake,110
+Cold Orange Milkshake,110
+Cold Mango Milkshake,143
+Cold Mixed Fruit Milkshake,110
+Cold Mint Milkshake,110
+Cold Milkshake,110
+Hot Sweet Milkshake,143
+Hot Black Milkshake,110
+Hot Green Milkshake,110
+Hot Lemon Milkshake,110
+Hot Masala Milkshake,110
+Hot Ginger Milkshake,110
+Hot Apple Milkshake,110
+Hot Orange Milkshake,110
+Hot Mango Milkshake,143
+Hot Mixed Fruit Milkshake,110
+Hot Mint Milkshake,110
+Hot Milkshake,110
+Diet Sweet Milkshake,55
+Diet Black Milkshake,55
+Diet Green Milkshake,55
+Diet Lemon Milkshake,55
+Diet Masala Milkshake,55
+Diet Ginger Milkshake,55
+Diet Apple Milkshake,55
+Diet Orange Milkshake,55
+Diet Mango Milkshake,55
+Diet Mixed Fruit Milkshake,55
+Diet Mint Milkshake,55
+Diet Milkshake,55
+Sugar-Free Sweet Milkshake,55
+Sugar-Free Black Milkshake,55
+Sugar-Free Green Milkshake,55
+Sugar-Free Lemon Milkshake,55
+Sugar-Free Masala Milkshake,55
+Sugar-Free Ginger Milkshake,55
+Sugar-Free Apple Milkshake,55
+Sugar-Free Orange Milkshake,55
+Sugar-Free Mango Milkshake,55
+Sugar-Free Mixed Fruit Milkshake,55
+Sugar-Free Mint Milkshake,55
+Sugar-Free Milkshake,55
+Premium Sweet Milkshake,143
+Premium Black Milkshake,110
+Premium Green Milkshake,110
+Premium Lemon Milkshake,110
+Premium Masala Milkshake,110
+Premium Ginger Milkshake,110
+Premium Apple Milkshake,110
+Premium Orange Milkshake,110
+Premium Mango Milkshake,143
+Premium Mixed Fruit Milkshake,110
+Premium Mint Milkshake,110
+Premium Milkshake,110
+Fresh Sweet Milkshake,143
+Fresh Black Milkshake,110
+Fresh Green Milkshake,110
+Fresh Lemon Milkshake,110
+Fresh Masala Milkshake,110
+Fresh Ginger Milkshake,110
+Fresh Apple Milkshake,110
+Fresh Orange Milkshake,110
+Fresh Mango Milkshake,143
+Fresh Mixed Fruit Milkshake,110
+Fresh Mint Milkshake,110
+Fresh Milkshake,110
+Regular Sweet Hot Chocolate,77
+Regular Black Hot Chocolate,77
+Regular Green Hot Chocolate,77
+Regular Lemon Hot Chocolate,77
+Regular Masala Hot Chocolate,77
+Regular Ginger Hot Chocolate,77
+Regular Apple Hot Chocolate,77
+Regular Orange Hot Chocolate,77
+Regular Mango Hot Chocolate,77
+Regular Mixed Fruit Hot Chocolate,77
+Regular Mint Hot Chocolate,77
+Regular Hot Chocolate,77
+Iced Sweet Hot Chocolate,77
+Iced Black Hot Chocolate,77
+Iced Green Hot Chocolate,77
+Iced Lemon Hot Chocolate,77
+Iced Masala Hot Chocolate,77
+Iced Ginger Hot Chocolate,77
+Iced Apple Hot Chocolate,77
+Iced Orange Hot Chocolate,77
+Iced Mango Hot Chocolate,77
+Iced Mixed Fruit Hot Chocolate,77
+Iced Mint Hot Chocolate,77
+Iced Hot Chocolate,77
+Cold Sweet Hot Chocolate,77
+Cold Black Hot Chocolate,77
+Cold Green Hot Chocolate,77
+Cold Lemon Hot Chocolate,77
+Cold Masala Hot Chocolate,77
+Cold Ginger Hot Chocolate,77
+Cold Apple Hot Chocolate,77
+Cold Orange Hot Chocolate,77
+Cold Mango Hot Chocolate,77
+Cold Mixed Fruit Hot Chocolate,77
+Cold Mint Hot Chocolate,77
+Cold Hot Chocolate,77
+Hot Sweet Hot Chocolate,77
+Hot Black Hot Chocolate,77
+Hot Green Hot Chocolate,77
+Hot Lemon Hot Chocolate,77
+Hot Masala Hot Chocolate,77
+Hot Ginger Hot Chocolate,77
+Hot Apple Hot Chocolate,77
+Hot Orange Hot Chocolate,77
+Hot Mango Hot Chocolate,77
+Hot Mixed Fruit Hot Chocolate,77
+Hot Mint Hot Chocolate,77
+Hot Hot Chocolate,77
+Diet Sweet Hot Chocolate,38
+Diet Black Hot Chocolate,38
+Diet Green Hot Chocolate,38
+Diet Lemon Hot Chocolate,38
+Diet Masala Hot Chocolate,38
+Diet Ginger Hot Chocolate,38
+Diet Apple Hot Chocolate,38
+Diet Orange Hot Chocolate,38
+Diet Mango Hot Chocolate,38
+Diet Mixed Fruit Hot Chocolate,38
+Diet Mint Hot Chocolate,38
+Diet Hot Chocolate,38
+Sugar-Free Sweet Hot Chocolate,38
+Sugar-Free Black Hot Chocolate,38
+Sugar-Free Green Hot Chocolate,38
+Sugar-Free Lemon Hot Chocolate,38
+Sugar-Free Masala Hot Chocolate,38
+Sugar-Free Ginger Hot Chocolate,38
+Sugar-Free Apple Hot Chocolate,38
+Sugar-Free Orange Hot Chocolate,38
+Sugar-Free Mango Hot Chocolate,38
+Sugar-Free Mixed Fruit Hot Chocolate,38
+Sugar-Free Mint Hot Chocolate,38
+Sugar-Free Hot Chocolate,38
+Premium Sweet Hot Chocolate,77
+Premium Black Hot Chocolate,77
+Premium Green Hot Chocolate,77
+Premium Lemon Hot Chocolate,77
+Premium Masala Hot Chocolate,77
+Premium Ginger Hot Chocolate,77
+Premium Apple Hot Chocolate,77
+Premium Orange Hot Chocolate,77
+Premium Mango Hot Chocolate,77
+Premium Mixed Fruit Hot Chocolate,77
+Premium Mint Hot Chocolate,77
+Premium Hot Chocolate,77
+Fresh Sweet Hot Chocolate,77
+Fresh Black Hot Chocolate,77
+Fresh Green Hot Chocolate,77
+Fresh Lemon Hot Chocolate,77
+Fresh Masala Hot Chocolate,77
+Fresh Ginger Hot Chocolate,77
+Fresh Apple Hot Chocolate,77
+Fresh Orange Hot Chocolate,77
+Fresh Mango Hot Chocolate,77
+Fresh Mixed Fruit Hot Chocolate,77
+Fresh Mint Hot Chocolate,77
+Fresh Hot Chocolate,77

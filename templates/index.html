@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#0B0E14">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>CalorieTracker - Intelligent Meal Tracking</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">
+            <i class="fa-solid fa-fire-flame-curved"></i>
+            <span>CalorieTracker</span>
+        </div>
+        <div class="nav-links" style="display: flex; gap: 10px;">
+            <button id="openBurnerBtn" class="btn-outline"><i class="fa-solid fa-person-running"></i> Calorie Burner</button>
+            <button id="resetApp" class="btn-outline">Reset Today</button>
+        </div>
+    </nav>
+
+    <main class="dashboard">
+        <!-- User Profile & BMI Section -->
+        <section class="panel profile-panel">
+            <div class="panel-header">
+                <h2><i class="fa-solid fa-user-astronaut"></i> Profile & BMI</h2>
+                <p>Calculate your metrics to get an intelligent daily goal.</p>
+            </div>
+            <form id="bmiForm" class="form-container">
+                <div class="input-group">
+                    <label>Age</label>
+                    <input type="number" id="age" placeholder="Years" required min="10" max="120">
+                </div>
+                <div class="input-group">
+                    <label>Gender</label>
+                    <select id="gender" required>
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                    </select>
+                </div>
+                <div class="row">
+                    <div class="input-group">
+                        <label>Height (cm)</label>
+                        <input type="number" id="height" placeholder="e.g. 175" required min="100" max="250">
+                    </div>
+                    <div class="input-group">
+                        <label>Weight (kg)</label>
+                        <input type="number" id="weight" placeholder="e.g. 70" required min="30" max="300">
+                    </div>
+                </div>
+                <button type="submit" class="btn-primary w-100">Calculate Goal</button>
+            </form>
+
+            <div id="bmiResult" class="results-container hidden">
+                <div class="stat-box">
+                    <span>Your BMI</span>
+                    <h3 id="bmiValue">--</h3>
+                    <span id="bmiCategory" class="badge">--</span>
+                </div>
+                <div class="stat-box">
+                    <span>Daily Goal</span>
+                    <h3 id="recommendedGoal">-- kcal</h3>
+                </div>
+            </div>
+        </section>
+
+        <!-- Meal Tracker Section -->
+        <section class="panel meal-panel">
+            <div class="panel-header">
+                <h2><i class="fa-solid fa-utensils"></i> Today's Meals</h2>
+                <p>Track your food intake from our rich Indian & Global dataset.</p>
+            </div>
+            
+            <div class="progress-container">
+                <div class="progress-header">
+                    <span class="consumed-text"><span id="totalCalories">0</span> kcal consumed</span>
+                    <span class="left-text"><span id="remainingCalories">--</span> kcal left</span>
+                </div>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+                <div id="healthSuggestion" class="suggestion-text">Please calculate your BMI to get personalized goals.</div>
+            </div>
+
+            <form id="foodForm" class="food-entry">
+                <div class="input-group flex-2">
+                    <label>Search & Select Food</label>
+                    <input type="text" id="foodItem" list="foodOptions" placeholder="Search from 1300+ foods..." required autocomplete="off">
+                    <datalist id="foodOptions">
+                        <option value="Loading foods..."></option>
+                    </datalist>
+                </div>
+                <div class="input-group flex-1">
+                    <label>Quantity</label>
+                    <input type="number" id="quantity" placeholder="100" required min="1">
+                </div>
+                <div class="input-group" style="flex: 0.8;">
+                    <label>Unit</label>
+                    <select id="foodUnit">
+                        <option value="g">g (Solid)</option>
+                        <option value="ml">ml (Liquid)</option>
+                    </select>
+                </div>
+                <div class="input-group button-group">
+                    <label>&nbsp;</label>
+                    <button type="submit" class="btn-add"><i class="fa-solid fa-plus"></i></button>
+                </div>
+            </form>
+
+            <div class="meal-list-container">
+                <h3>Meal History <span id="itemCount" class="badge-small">0 items</span></h3>
+                <ul id="mealList" class="meal-list">
+                    <!-- Dynamic List Items -->
+                    <li class="empty-state">No meals added yet. Let's eat!</li>
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <!-- Calorie Burner Modal -->
+    <div id="burnerModal" class="modal-overlay">
+        <div class="modal-content">
+            <button id="closeBurnerBtn" class="modal-close"><i class="fa-solid fa-xmark"></i></button>
+            <div class="panel-header" style="margin-bottom: 1.5rem;">
+                <h2><i class="fa-solid fa-fire"></i> Calorie Burner</h2>
+                <p>Track your steps/km and follow simple exercises.</p>
+            </div>
+            
+            <form id="burnerForm" class="form-container" style="margin-bottom: 1.5rem;">
+                <div class="row">
+                    <div class="input-group flex-1">
+                        <label>Steps / KM Walked</label>
+                        <input type="number" id="activityValue" placeholder="e.g. 5000 or 5" required min="1" step="any">
+                    </div>
+                    <div class="input-group flex-1">
+                        <label>Type</label>
+                        <select id="activityType">
+                            <option value="steps">Steps</option>
+                            <option value="km">Kilometers</option>
+                        </select>
+                    </div>
+                </div>
+                <button type="submit" class="btn-primary w-100"><i class="fa-solid fa-plus"></i> Add Activity</button>
+            </form>
+
+            <div class="calorie-burner-stats">
+                <div class="burner-stat-box">
+                    <span><i class="fa-solid fa-shoe-prints" style="color: var(--accent-orange); margin-right: 5px;"></i> Total Steps</span>
+                    <h3 id="totalSteps">0</h3>
+                </div>
+                <div class="burner-stat-box">
+                    <span><i class="fa-solid fa-route" style="color: var(--accent-orange); margin-right: 5px;"></i> Total KM</span>
+                    <h3 id="totalKm">0.0</h3>
+                </div>
+            </div>
+
+            <h3 style="font-size: 1.1rem; margin-top: 1rem; margin-bottom: 0.5rem; color: var(--accent-orange);">
+                <i class="fa-solid fa-dumbbell" style="margin-right: 5px;"></i> 15-20 Min Simple Exercises
+            </h3>
+            <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 1rem;">For flexibility, increased motion, and body fit.</p>
+            
+            <div class="exercises-list">
+                <div class="exercise-item">
+                    <h4><i class="fa-solid fa-arrows-rotate" style="margin-right: 8px; color: var(--accent-red);"></i> 1. Neck & Shoulder Rolls (3 mins)</h4>
+                    <p>Slowly roll your neck in circles. Roll shoulders forward and backward to release tension.</p>
+                </div>
+                <div class="exercise-item">
+                    <h4><i class="fa-solid fa-person-arrow-up-from-line" style="margin-right: 8px; color: var(--accent-red);"></i> 2. Arm Circles & Reaches (3 mins)</h4>
+                    <p>Wide arm circles to improve shoulder mobility. Reach high and try to touch your toes.</p>
+                </div>
+                <div class="exercise-item">
+                    <h4><i class="fa-solid fa-child" style="margin-right: 8px; color: var(--accent-red);"></i> 3. Torso Twists & Side Bends (4 mins)</h4>
+                    <p>Stand with feet wide. Twist your upper body side to side. Bend laterally to stretch obliques.</p>
+                </div>
+                <div class="exercise-item">
+                    <h4><i class="fa-solid fa-circle-notch" style="margin-right: 8px; color: var(--accent-red);"></i> 4. Hip Circles & Leg Swings (4 mins)</h4>
+                    <p>Circle your hips like a hula hoop. Hold a wall and swing each leg forward, backward, and side to side.</p>
+                </div>
+                <div class="exercise-item">
+                    <h4><i class="fa-solid fa-leaf" style="margin-right: 8px; color: var(--accent-red);"></i> 5. Calm Breathing & Stretching (4 mins)</h4>
+                    <p>Deep inhales and exhales. Finish with a full body stretch reaching upwards.</p>
+                </div>
+                <div class="exercise-item">
+                    <h4><i class="fa-solid fa-person-walking" style="margin-right: 8px; color: var(--accent-red);"></i> 6. Light Walk in Place (2 mins)</h4>
+                    <p>Gentle march in place to bring the heart rate back down and loosen the legs.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JS Scripts -->
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
